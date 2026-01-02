@@ -1,0 +1,287 @@
+[
+    {
+        "id": 1,
+        "name": "Demogorgon",
+        "origin": "The Upside Down",
+        "classification": "Predator",
+        "description": "A tall, humanoid apex predator from the Upside Down. It has no visible face, but a flower-like head that opens to reveal rows of razor-sharp teeth. It can travel between dimensions through temporary gates.",
+        "abilities": [
+            "Dimensional Travel",
+            "Enhanced Strength",
+            "Blood Tracking",
+            "Regeneration"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Bullets (heavy damage)",
+            "Telekinesis"
+        ],
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "status": "Active",
+        "threat_level": "High",
+        "image_path": "/images/creatures/demogorgon.webp",
+        "seasons": [
+            1,
+            4
+        ],
+        "victims": [
+            "Barb Holland",
+            "Scientists at Hawkins Lab",
+            "Soviet Prisoners"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Demo-dogs",
+        "origin": "The Upside Down",
+        "classification": "Pack Predator",
+        "description": "Adolescent Demogorgons that move on all fours like dogs. They hunt in packs and are controlled by the Mind Flayer through a hive mind connection.",
+        "abilities": [
+            "Pack Coordination",
+            "Enhanced Speed",
+            "Sharp Claws",
+            "Tunnel Creation"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Severing connection to Mind Flayer"
+        ],
+        "first_appearance": "Chapter Three: The Pollywog",
+        "status": "Active",
+        "threat_level": "Medium-High",
+        "image_path": "/images/creatures/demodogs.webp",
+        "seasons": [
+            2,
+            4
+        ],
+        "victims": [
+            "Bob Newby",
+            "Hawkins Lab Scientists",
+            "Hawkins residents"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Mind Flayer",
+        "origin": "The Upside Down",
+        "classification": "Hive Mind Entity",
+        "description": "A massive, spider-like shadow entity that exists as a dark cloud in the Upside Down. It serves as the hive mind controlling all creatures from the Upside Down and seeks to consume our dimension.",
+        "abilities": [
+            "Mind Control",
+            "Possession",
+            "Hive Mind Control",
+            "Physical Manifestation",
+            "Memory Access"
+        ],
+        "weaknesses": [
+            "Heat",
+            "Closing the Gate"
+        ],
+        "first_appearance": "Chapter One: MADMAX",
+        "status": "Active (weakened)",
+        "threat_level": "Extreme",
+        "image_path": "/images/creatures/mind_flayer.webp",
+        "seasons": [
+            2,
+            3,
+            4
+        ],
+        "victims": [
+            "Will Byers (possessed)",
+            "Billy Hargrove",
+            "The Flayed"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "The Flayed",
+        "origin": "Hawkins (humans controlled by Mind Flayer)",
+        "classification": "Possessed Humans",
+        "description": "Humans who have been infected by the Mind Flayer's particles. They lose their free will and serve the Mind Flayer's purposes. They can be melted down to form the Mind Flayer's physical body.",
+        "abilities": [
+            "Coordination through hive mind",
+            "Physical transformation"
+        ],
+        "weaknesses": [
+            "Heat",
+            "Death of the Mind Flayer"
+        ],
+        "first_appearance": "Chapter One: Suzie, Do You Copy?",
+        "status": "Inactive",
+        "threat_level": "Medium",
+        "image_path": "/images/creatures/flayed.webp",
+        "seasons": [
+            3
+        ],
+        "victims": [
+            "Multiple Hawkins residents merged into the Spider Monster"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Demo-bats",
+        "origin": "The Upside Down",
+        "classification": "Flying Predator",
+        "description": "Bat-like creatures that swarm in the Upside Down. They have long, prehensile tails and attack in massive groups. Like other Upside Down creatures, they're connected to Vecna's hive mind.",
+        "abilities": [
+            "Flight",
+            "Swarm Coordination",
+            "Strangling Tails",
+            "Biting"
+        ],
+        "weaknesses": [
+            "Physical attacks when isolated",
+            "Fire"
+        ],
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "status": "Active",
+        "threat_level": "High (in swarms)",
+        "image_path": "/images/creatures/demobats.webp",
+        "seasons": [
+            4
+        ],
+        "victims": [
+            "Eddie Munson"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Vecna",
+        "origin": "Hawkins / The Upside Down",
+        "classification": "Humanoid Entity / Cursed Being",
+        "description": "Originally Henry Creel, the first child with psychic powers experimented on by Dr. Brenner. After being banished to the Upside Down by Eleven, he transformed into Vecna and became master of all Upside Down creatures.",
+        "abilities": [
+            "Telekinesis",
+            "Telepathy",
+            "Curse Infliction",
+            "Memory Manipulation",
+            "Dimensional Gates",
+            "Control over Upside Down"
+        ],
+        "weaknesses": [
+            "Music (disrupts curse)",
+            "Eleven's powers",
+            "Attacking physical body"
+        ],
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "status": "Unknown (injured)",
+        "threat_level": "Extreme",
+        "image_path": "/images/creatures/vecna.webp",
+        "seasons": [
+            4
+        ],
+        "victims": [
+            "Chrissy Cunningham",
+            "Fred Benson",
+            "Patrick McKinney",
+            "Max Mayfield (near-death)"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Slug/Pollywog",
+        "origin": "The Upside Down",
+        "classification": "Larva",
+        "description": "The larval stage of Demogorgons. They resemble small slugs or tadpoles. Will Byers expelled one after being rescued, and Dustin found one named D'Artagnan (Dart).",
+        "abilities": [
+            "Rapid Growth",
+            "Dimensional Attachment"
+        ],
+        "weaknesses": [
+            "Physical vulnerability in early stages",
+            "Chocolate (attractive to them)"
+        ],
+        "first_appearance": "Chapter Eight: The Upside Down",
+        "status": "Active",
+        "threat_level": "Low (individually)",
+        "image_path": "/images/creatures/pollywog.webp",
+        "seasons": [
+            1,
+            2
+        ],
+        "victims": [
+            "Mews (Dustin's cat)"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Spider Monster / Meat Flayer",
+        "origin": "Hawkins",
+        "classification": "Amalgamation Entity",
+        "description": "A massive creature formed from the melted bodies of The Flayed combined together. It served as the Mind Flayer's physical form in our dimension during the Battle of Starcourt.",
+        "abilities": [
+            "Immense Strength",
+            "Regeneration through absorbing more matter",
+            "Tentacle attacks"
+        ],
+        "weaknesses": [
+            "Fireworks",
+            "Closing the Gate"
+        ],
+        "first_appearance": "Chapter Six: E Pluribus Unum",
+        "status": "Deceased",
+        "threat_level": "Extreme",
+        "image_path": "/images/creatures/spider_monster.webp",
+        "seasons": [
+            3
+        ],
+        "victims": [
+            "Multiple attempted victims at Starcourt Mall"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Vines",
+        "origin": "The Upside Down",
+        "classification": "Organic Structure",
+        "description": "Organic, root-like structures that cover the Upside Down and have spread through Hawkins via the tunnels. They pulsate with life and are connected to the Upside Down's ecosystem.",
+        "abilities": [
+            "Strangling",
+            "Spreading",
+            "Sense detection"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Cutting"
+        ],
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "status": "Active",
+        "threat_level": "Low-Medium",
+        "image_path": "/images/creatures/vines.webp",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "victims": [
+            "None directly (environmental hazard)"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Russian Demogorgon",
+        "origin": "The Upside Down / Soviet Captivity",
+        "classification": "Captured Predator",
+        "description": "A Demogorgon captured by the Soviet Union and held in the Kamchatka prison complex. Used as an execution method for prisoners and studied by Soviet scientists.",
+        "abilities": [
+            "Same as regular Demogorgon",
+            "Enhanced aggression from captivity"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Coordinated attacks"
+        ],
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "status": "Deceased",
+        "threat_level": "High",
+        "image_path": "/images/creatures/russian_demogorgon.webp",
+        "seasons": [
+            4
+        ],
+        "victims": [
+            "Soviet prisoners",
+            "Soviet guards"
+        ]
+    }
+]

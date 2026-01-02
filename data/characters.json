@@ -1,0 +1,722 @@
+[
+    {
+        "id": 1,
+        "name": "Eleven",
+        "real_name": "Jane Hopper",
+        "nickname": "El",
+        "age": 15,
+        "birthdate": "1971-06-05",
+        "gender": "Female",
+        "occupation": "Student",
+        "affiliation": "Hawkins Lab (formerly), The Party",
+        "portrayed_by": "Millie Bobby Brown",
+        "powers": [
+            "Telekinesis",
+            "Remote Viewing",
+            "Mind Control",
+            "Memory Access"
+        ],
+        "status": "Alive",
+        "portrait_path": "/images/characters/eleven.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "Friends don't lie.",
+            "I dump your ass.",
+            "Mouth-breather.",
+            "Bad. Bad.",
+            "Pretty... good.",
+            "The gate. I opened it. I'm the monster.",
+            "I can save them.",
+            "Goodbye, Mike."
+        ],
+        "description": "A young girl with powerful psychokinetic abilities who was raised in Hawkins National Laboratory. She escaped and was found by Mike, Dustin, and Lucas while they were searching for Will Byers.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Mike Wheeler",
+        "real_name": "Michael Wheeler",
+        "nickname": "Mike",
+        "age": 15,
+        "birthdate": "1971-04-07",
+        "gender": "Male",
+        "occupation": "Student",
+        "affiliation": "The Party",
+        "portrayed_by": "Finn Wolfhard",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/mike.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "She's our friend and she's crazy!",
+            "You're gonna be cool now, Will Byers.",
+            "We never would've upset you if we knew you had superpowers.",
+            "I'll never let anything bad happen to you again.",
+            "This is crazy!",
+            "You're the most incredible person in the world."
+        ],
+        "description": "The leader of The Party and boyfriend of Eleven. He is protective, passionate, and strategic, serving as the group's Dungeon Master.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Dustin Henderson",
+        "real_name": "Dustin Henderson",
+        "nickname": "Dusty",
+        "age": 15,
+        "birthdate": "1971-07-15",
+        "gender": "Male",
+        "occupation": "Student",
+        "affiliation": "The Party, Camp Know Where",
+        "portrayed_by": "Gaten Matarazzo",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/dustin.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "She's our friend and she's crazy!",
+            "Son of a bitch, you're really no help at all, you know that?",
+            "Why are you keeping this curiosity door locked?",
+            "His name is D'Artagnan. Dart for short.",
+            "I'm the brain of this operation!",
+            "Just be careful of the Demogorgon.",
+            "Never Tell Me The Odds!"
+        ],
+        "description": "The brainy member of The Party with a love for science, candy, and his pet Dart. He's known for his cleidocranial dysplasia, his humor, and his incredible bond with Steve Harrington.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Lucas Sinclair",
+        "real_name": "Lucas Charles Sinclair",
+        "nickname": "Lucas",
+        "age": 15,
+        "birthdate": "1971-02-06",
+        "gender": "Male",
+        "occupation": "Student",
+        "affiliation": "The Party, Hawkins High Basketball Team",
+        "portrayed_by": "Caleb McLaughlin",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/lucas.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "We're not going to Mirkwood on some...blind faith mission!",
+            "She's a traitor!",
+            "She's our friend and she's crazy!",
+            "Something's coming. Something hungry for blood.",
+            "You just became cool, Zoomer."
+        ],
+        "description": "A member of The Party who is practical, skeptical, and protective. He was initially distrustful of Eleven but eventually became a loyal friend.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Will Byers",
+        "real_name": "William Byers",
+        "nickname": "Will the Wise, Zombie Boy",
+        "age": 15,
+        "birthdate": "1971-03-22",
+        "gender": "Male",
+        "occupation": "Student",
+        "affiliation": "The Party",
+        "portrayed_by": "Noah Schnapp",
+        "powers": [
+            "True Sight (temporary psychic connection to the Mind Flayer)"
+        ],
+        "status": "Alive",
+        "portrait_path": "/images/characters/will.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "It's like I'm stuck. Stuck in the Upside Down.",
+            "He's here.",
+            "It was like something... from a nightmare.",
+            "Sometimes I feel like I'm still there.",
+            "I felt it everywhere."
+        ],
+        "description": "Joyce Byers' son who was abducted to the Upside Down in 1983. His disappearance sparked the events of the series. He developed a connection to the Mind Flayer after being rescued.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Jim Hopper",
+        "real_name": "James Hopper III",
+        "nickname": "Hop",
+        "age": 43,
+        "birthdate": "1943-06-10",
+        "gender": "Male",
+        "occupation": "Chief of Police (Hawkins PD), Adoptive father of Eleven",
+        "affiliation": "Hawkins Police Department, Hawkins Lab (undercover)",
+        "portrayed_by": "David Harbour",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/hopper.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "Mornings are for coffee and contemplation.",
+            "I've seen the way you look at her. And I'm telling you now, that girl's been through hell.",
+            "Keep the door open three inches!",
+            "I know you're angry. But please, just give me a chance to explain.",
+            "No more secrets, okay?",
+            "I'm the one who gave you a life!"
+        ],
+        "description": "The Chief of Police in Hawkins, Indiana. He suffered the loss of his daughter Sara before adopting Eleven. He's gruff but caring, and becomes a father figure to El.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Joyce Byers",
+        "real_name": "Joyce Byers",
+        "nickname": "Joyce",
+        "age": 41,
+        "birthdate": "1945-09-20",
+        "gender": "Female",
+        "occupation": "Sales Associate (Melvald's General Store)",
+        "affiliation": "Melvald's General Store, Family Byers",
+        "portrayed_by": "Winona Ryder",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/joyce.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "This is not a normal time, right? I'm not saying it's supernatural, but I'm not saying it's natural either.",
+            "I will never stop looking for him!",
+            "I know my boy!",
+            "Do you really think I'm crazy?",
+            "Will is alive! I don't know where he is, but I know he is out there!"
+        ],
+        "description": "Mother of Jonathan and Will Byers. After Will's disappearance, she relentlessly searched for him and discovered she could communicate with him through Christmas lights.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Nancy Wheeler",
+        "real_name": "Nancy Wheeler",
+        "nickname": "Nancy",
+        "age": 18,
+        "birthdate": "1968-08-15",
+        "gender": "Female",
+        "occupation": "Student, Journalist",
+        "affiliation": "Hawkins High School, The Hawkins Post",
+        "portrayed_by": "Natalia Dyer",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/nancy.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "I'm not gonna spend the rest of my life waiting for you to wake up.",
+            "What happened to Barb?",
+            "I want to finish what we started. I want to kill it.",
+            "You want to stop Brenner? Let's stop Brenner."
+        ],
+        "description": "Mike's older sister who initially dated Steve Harrington before becoming romantically involved with Jonathan Byers. She's determined and resourceful, fighting against the Upside Down threats.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Jonathan Byers",
+        "real_name": "Jonathan Byers",
+        "nickname": "Jonathan",
+        "age": 19,
+        "birthdate": "1967-02-12",
+        "gender": "Male",
+        "occupation": "Student, Photographer",
+        "affiliation": "The Byers Family, Surfer Boy Pizza",
+        "portrayed_by": "Charlie Heaton",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/jonathan.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "You shouldn't like things because people tell you you're supposed to.",
+            "I guess what I'm saying is... you don't have to pretend to be someone you're not.",
+            "This thing, it does everything for a reason.",
+            "We're gonna get Will back."
+        ],
+        "description": "Will Byers' older brother and Joyce's eldest son. A talented photographer and introverted loner who becomes involved in the fight against the Upside Down.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Steve Harrington",
+        "real_name": "Steve Harrington",
+        "nickname": "The Hair, The Babysitter",
+        "age": 19,
+        "birthdate": "1967-03-14",
+        "gender": "Male",
+        "occupation": "Scoops Ahoy Employee (formerly), Family Video Employee",
+        "affiliation": "Hawkins High School (formerly), Family Video",
+        "portrayed_by": "Joe Keery",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/steve.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "Ahoy ladies!",
+            "Always here to save the day.",
+            "Henderson! What are you doing?",
+            "How many children are you friends with?",
+            "Four puffs of the Farrah Fawcett spray.",
+            "Just because you don't see us does n't mean that we're not there."
+        ],
+        "description": "Initially a popular jock and Nancy's boyfriend, Steve evolved into the beloved 'Mom of the group', protecting the kids and wielding his iconic nail bat.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Max Mayfield",
+        "real_name": "Maxine Mayfield",
+        "nickname": "MadMax, Max",
+        "age": 15,
+        "birthdate": "1971-12-10",
+        "gender": "Female",
+        "occupation": "Student",
+        "affiliation": "The Party",
+        "portrayed_by": "Sadie Sink",
+        "powers": null,
+        "status": "Unknown (coma)",
+        "portrait_path": "/images/characters/max.webp",
+        "first_appearance": "Chapter One: MADMAX",
+        "quotes": [
+            "I'm not afraid of you.",
+            "I thought you were supposed to be some kind of super spy.",
+            "We're Max and Eleven. Super best friends.",
+            "Running up that hill..."
+        ],
+        "description": "A newcomer to Hawkins who joins The Party. She's fierce, independent, and a skilled skateboarder. She was targeted by Vecna due to her trauma from Billy's death.",
+        "seasons": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Billy Hargrove",
+        "real_name": "William Hargrove",
+        "nickname": "Billy",
+        "age": 18,
+        "birthdate": "1968-03-29",
+        "gender": "Male",
+        "occupation": "Lifeguard at Hawkins Community Pool",
+        "affiliation": "Hawkins Community Pool, The Flayed (temporarily)",
+        "portrayed_by": "Dacre Montgomery",
+        "powers": null,
+        "status": "Deceased",
+        "portrait_path": "/images/characters/billy.webp",
+        "first_appearance": "Chapter One: MADMAX",
+        "quotes": [
+            "Looks like you've got yourself some competition.",
+            "I've been waiting to meet this King Steve everyone's been telling me so much about.",
+            "I want you to build. Do you understand?",
+            "I saw it. The thing that took me."
+        ],
+        "description": "Max's older stepbrother who was initially antagonistic. He was possessed by the Mind Flayer and became the main host of The Flayed before sacrificing himself to save Eleven.",
+        "seasons": [
+            2,
+            3
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Robin Buckley",
+        "real_name": "Robin Buckley",
+        "nickname": "Robin",
+        "age": 18,
+        "birthdate": "1968-04-21",
+        "gender": "Female",
+        "occupation": "Scoops Ahoy Employee (formerly), Family Video Employee",
+        "affiliation": "Scoops Ahoy (formerly), Family Video",
+        "portrayed_by": "Maya Hawke",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/robin.webp",
+        "first_appearance": "Chapter One: Suzie, Do You Copy?",
+        "quotes": [
+            "How many times, mom? I told you on the phone, I'm busy!",
+            "I'm just going to walk away now.",
+            "I'm not afraid of you. I'm not afraid of anything anymore.",
+            "You rule, you know that?"
+        ],
+        "description": "Steve's co-worker at Scoops Ahoy and later at Family Video. She's intelligent, witty, and fluent in multiple languages including Russian. She came out to Steve as gay.",
+        "seasons": [
+            3,
+            4
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Murray Bauman",
+        "real_name": "Murray Bauman",
+        "nickname": "Murray",
+        "age": 52,
+        "birthdate": "1934-05-15",
+        "gender": "Male",
+        "occupation": "Private Investigator, Former Journalist",
+        "affiliation": "Independent",
+        "portrayed_by": "Brett Gelman",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/murray.webp",
+        "first_appearance": "Chapter Three: The Pollywog",
+        "quotes": [
+            "I am never wrong.",
+            "How do you say 'child' in Russian?",
+            "Call me a conspiracist, I call myself a realist!",
+            "I'm just saying, there are forces afoot in the universe that we can't understand."
+        ],
+        "description": "An eccentric conspiracy theorist and private investigator who becomes involved with the Hawkins gang. He helped expose Hawkins Lab and accompanied Joyce to Russia.",
+        "seasons": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Erica Sinclair",
+        "real_name": "Erica Sinclair",
+        "nickname": "Erica",
+        "age": 11,
+        "birthdate": "1975-08-12",
+        "gender": "Female",
+        "occupation": "Student",
+        "affiliation": "The Party (later)",
+        "portrayed_by": "Priah Ferguson",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/erica.webp",
+        "first_appearance": "Chapter Two: The Weirdo on Maple Street",
+        "quotes": [
+            "You can't spell America without Erica.",
+            "I'm ten, chill!",
+            "Just the facts.",
+            "Code Red!"
+        ],
+        "description": "Lucas's sassy younger sister who gets involved in the Starcourt Mall mission. Despite initially mocking her brother's friends, she becomes an invaluable member of the team.",
+        "seasons": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Dr. Martin Brenner",
+        "real_name": "Dr. Martin Brenner",
+        "nickname": "Papa",
+        "age": 57,
+        "birthdate": "1929-01-18",
+        "gender": "Male",
+        "occupation": "Director of Hawkins National Laboratory",
+        "affiliation": "Hawkins National Laboratory, United States Department of Energy",
+        "portrayed_by": "Matthew Modine",
+        "powers": null,
+        "status": "Deceased",
+        "portrait_path": "/images/characters/brenner.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "Listen, I'm going to keep you safe. I'm going to take you back home.",
+            "You've come so far. I'm so proud of you.",
+            "Eleven, you must remember. What did you see?",
+            "I made you."
+        ],
+        "description": "The sinister director of Hawkins National Laboratory who raised Eleven and other children with powers. He conducted experiments on children including MKUltra-style programs.",
+        "seasons": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Eddie Munson",
+        "real_name": "Edward Munson",
+        "nickname": "Eddie the Banished",
+        "age": 20,
+        "birthdate": "1966-01-05",
+        "gender": "Male",
+        "occupation": "Student (held back twice), Dungeon Master of Hellfire Club",
+        "affiliation": "Hellfire Club",
+        "portrayed_by": "Joseph Quinn",
+        "powers": null,
+        "status": "Deceased",
+        "portrait_path": "/images/characters/eddie.webp",
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "quotes": [
+            "This is music!",
+            "I didn't run away this time, right?",
+            "Never change, Dustin Henderson.",
+            "Chrissy, wake up! I don't like this!",
+            "I am Dungeon Master!"
+        ],
+        "description": "The charismatic leader of the Hellfire Club, a D&D group at Hawkins High. He witnessed Chrissy's death by Vecna and was hunted by the town. He sacrificed himself fighting Demo-bats.",
+        "seasons": [
+            4
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Argyle",
+        "real_name": "Argyle",
+        "nickname": "Argyle",
+        "age": 19,
+        "birthdate": "1967-04-20",
+        "gender": "Male",
+        "occupation": "Pizza Delivery Driver (Surfer Boy Pizza)",
+        "affiliation": "Surfer Boy Pizza",
+        "portrayed_by": "Eduardo Franco",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/argyle.webp",
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "quotes": [
+            "Try before you deny, brochachos!",
+            "Pineapple is good on pizza!",
+            "That's just crazy talk, broski.",
+            "Purple Palm Tree Delight."
+        ],
+        "description": "Jonathan's laid-back stoner friend from California who works at Surfer Boy Pizza. He helps the California group during their journey to help Eleven.",
+        "seasons": [
+            4
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Bob Newby",
+        "real_name": "Robert Newby",
+        "nickname": "Bob the Brain",
+        "age": 42,
+        "birthdate": "1944-11-03",
+        "gender": "Male",
+        "occupation": "Radio Shack Manager",
+        "affiliation": "Radio Shack, Hawkins AV Club (formerly)",
+        "portrayed_by": "Sean Astin",
+        "powers": null,
+        "status": "Deceased",
+        "portrait_path": "/images/characters/bob.webp",
+        "first_appearance": "Chapter One: MADMAX",
+        "quotes": [
+            "You know what I do when I have nightmares? I close my eyes, I tell myself it's all in my head.",
+            "Easy peasy!",
+            "What are you, stupid? Just run!",
+            "I love her, and I love you."
+        ],
+        "description": "Joyce Byers' boyfriend who worked at Radio Shack. A kind and intelligent man who helped decode Will's drawings and sacrificed himself to save the group from Demodogs.",
+        "seasons": [
+            2
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Barbara Holland",
+        "real_name": "Barbara Holland",
+        "nickname": "Barb",
+        "age": 17,
+        "birthdate": "1969-11-14",
+        "gender": "Female",
+        "occupation": "Student",
+        "affiliation": "Hawkins High School",
+        "portrayed_by": "Shannon Purser",
+        "powers": null,
+        "status": "Deceased",
+        "portrait_path": "/images/characters/barb.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "This isn't you.",
+            "Just be careful, okay?",
+            "Nancy, I'm not really in the mood.",
+            "You're different now."
+        ],
+        "description": "Nancy Wheeler's best friend who was taken by the Demogorgon and killed in the Upside Down. Her disappearance and death became a major plot point driving Nancy's actions.",
+        "seasons": [
+            1
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Dmitri Antonov",
+        "real_name": "Dmitri Antonov",
+        "nickname": "Enzo",
+        "age": 38,
+        "birthdate": "1948-06-22",
+        "gender": "Male",
+        "occupation": "Prison Guard (Kamchatka Prison)",
+        "affiliation": "Soviet Union (formerly)",
+        "portrayed_by": "Tom Wlaschiha",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/enzo.webp",
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "quotes": [
+            "You're Jim Hopper. The American!",
+            "Everyone has something they want to protect.",
+            "Trust is a dangerous thing in this place."
+        ],
+        "description": "A Russian prison guard who helped Hopper escape the Kamchatka prison. Named 'Enzo' by Hopper after a restaurant, he risked everything to help and reunite with his family.",
+        "seasons": [
+            4
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Suzie Bingham",
+        "real_name": "Susan Bingham",
+        "nickname": "Suzie-poo",
+        "age": 14,
+        "birthdate": "1971-09-01",
+        "gender": "Female",
+        "occupation": "Student",
+        "affiliation": "Camp Know Where",
+        "portrayed_by": "Gabriella Pizzolo",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/suzie.webp",
+        "first_appearance": "Chapter Eight: The Battle of Starcourt",
+        "quotes": [
+            "Turn around, look at what you see...",
+            "I'm his girlfriend. His celestial girlfriend.",
+            "Planck's constant!"
+        ],
+        "description": "Dustin's genius girlfriend from Camp Know Where who lives in Utah. She memorably made Dustin sing the NeverEnding Story theme song before helping with the gate code.",
+        "seasons": [
+            3,
+            4
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Vecna",
+        "real_name": "Henry Creel / One",
+        "nickname": "001, Peter Ballard",
+        "age": 39,
+        "birthdate": "1947-05-10",
+        "gender": "Male",
+        "occupation": "Orderly at Hawkins Lab (formerly)",
+        "affiliation": "The Upside Down",
+        "portrayed_by": "Jamie Campbell Bower",
+        "powers": [
+            "Telekinesis",
+            "Mind Control",
+            "Memory Access",
+            "Telepathy",
+            "Curse Infliction"
+        ],
+        "status": "Unknown",
+        "portrait_path": "/images/characters/vecna.webp",
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "quotes": [
+            "You are the key to everything.",
+            "I am the reason for everything that's happened.",
+            "You still don't understand, do you?",
+            "It is over, Eleven. You have freed me.",
+            "This pain... it is a gift."
+        ],
+        "description": "The main antagonist, originally Henry Creel/One, the first child with powers. He was banished to the Upside Down by Eleven and became Vecna, orchestrating all Upside Down attacks on Hawkins.",
+        "seasons": [
+            4
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Alexei",
+        "real_name": "Alexei",
+        "nickname": "Smirnoff",
+        "age": 35,
+        "birthdate": "1951-03-08",
+        "gender": "Male",
+        "occupation": "Scientist",
+        "affiliation": "Soviet Union",
+        "portrayed_by": "Alec Utgoff",
+        "powers": null,
+        "status": "Deceased",
+        "portrait_path": "/images/characters/alexei.webp",
+        "first_appearance": "Chapter Two: The Mall Rats",
+        "quotes": [
+            "Woody Woodpecker!",
+            "Not strawberry. Cherry.",
+            "*speaks Russian excitedly about Slurpees*"
+        ],
+        "description": "A Russian scientist who defected and helped Joyce and Hopper understand the Soviet operation under Starcourt Mall. He loved Slurpees and Woody Woodpecker.",
+        "seasons": [
+            3
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Terry Ives",
+        "real_name": "Teresa Ives",
+        "nickname": "Terry",
+        "age": 47,
+        "birthdate": "1939-04-11",
+        "gender": "Female",
+        "occupation": "None (catatonic)",
+        "affiliation": "MKUltra Program (formerly)",
+        "portrayed_by": "Aimee Mullins",
+        "powers": [
+            "Telepathy (formerly)"
+        ],
+        "status": "Alive (catatonic)",
+        "portrait_path": "/images/characters/terry.webp",
+        "first_appearance": "Chapter Three: Holly, Jolly",
+        "quotes": [
+            "Breathe... Sunflower... Three to the right, four to the left... Rainbow... 450...",
+            "Breathe..."
+        ],
+        "description": "Eleven's biological mother who participated in MKUltra experiments at Hawkins Lab while pregnant. Dr. Brenner took her baby and electroshocked her into a catatonic state.",
+        "seasons": [
+            1,
+            2
+        ]
+    }
+]

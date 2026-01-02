@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "quote": "Friends don't lie.",
+        "character": "Eleven",
+        "character_id": 1,
+        "season": 1,
+        "episode": null,
+        "context": "One of Eleven's first learned principles about friendship"
+    },
+    {
+        "id": 2,
+        "quote": "Mornings are for coffee and contemplation.",
+        "character": "Jim Hopper",
+        "character_id": 6,
+        "season": 1,
+        "episode": 2,
+        "context": "Hopper's trademark morning philosophy"
+    },
+    {
+        "id": 3,
+        "quote": "She's our friend and she's crazy!",
+        "character": "Dustin Henderson",
+        "character_id": 3,
+        "season": 1,
+        "episode": 6,
+        "context": "Defending Eleven while also acknowledging her unpredictable powers"
+    },
+    {
+        "id": 4,
+        "quote": "Mouth-breather.",
+        "character": "Eleven",
+        "character_id": 1,
+        "season": 1,
+        "episode": null,
+        "context": "Eleven's go-to insult learned from Mike"
+    },
+    {
+        "id": 5,
+        "quote": "You can't spell America without Erica.",
+        "character": "Erica Sinclair",
+        "character_id": 15,
+        "season": 3,
+        "episode": 4,
+        "context": "Erica making her patriotic entrance"
+    },
+    {
+        "id": 6,
+        "quote": "Ahoy ladies! Would you guys like to set sail on this ocean of flavor with me?",
+        "character": "Steve Harrington",
+        "character_id": 10,
+        "season": 3,
+        "episode": 1,
+        "context": "Steve's awkward Scoops Ahoy uniform greeting"
+    },
+    {
+        "id": 7,
+        "quote": "I dump your ass.",
+        "character": "Eleven",
+        "character_id": 1,
+        "season": 3,
+        "episode": 2,
+        "context": "Eleven breaking up with Mike after learning from Max"
+    },
+    {
+        "id": 8,
+        "quote": "The gate. I opened it. I'm the monster.",
+        "character": "Eleven",
+        "character_id": 1,
+        "season": 1,
+        "episode": 6,
+        "context": "Eleven blaming herself for opening the gate to the Upside Down"
+    },
+    {
+        "id": 9,
+        "quote": "How many children are you friends with?",
+        "character": "Robin Buckley",
+        "character_id": 13,
+        "season": 3,
+        "episode": 4,
+        "context": "Robin questioning Steve's unusual friend group"
+    },
+    {
+        "id": 10,
+        "quote": "I'm the one who gave you a life!",
+        "character": "Jim Hopper",
+        "character_id": 6,
+        "season": 2,
+        "episode": 4,
+        "context": "Hopper arguing with Eleven about keeping her hidden"
+    },
+    {
+        "id": 11,
+        "quote": "This is music!",
+        "character": "Eddie Munson",
+        "character_id": 17,
+        "season": 4,
+        "episode": 9,
+        "context": "Eddie before his epic guitar solo in the Upside Down"
+    },
+    {
+        "id": 12,
+        "quote": "Never change, Dustin Henderson.",
+        "character": "Eddie Munson",
+        "character_id": 17,
+        "season": 4,
+        "episode": 9,
+        "context": "Eddie's final words to his friend"
+    },
+    {
+        "id": 13,
+        "quote": "I didn't run away this time, right?",
+        "character": "Eddie Munson",
+        "character_id": 17,
+        "season": 4,
+        "episode": 9,
+        "context": "Eddie's last words after sacrificing himself"
+    },
+    {
+        "id": 14,
+        "quote": "Keep the door open three inches!",
+        "character": "Jim Hopper",
+        "character_id": 6,
+        "season": 2,
+        "episode": 4,
+        "context": "Hopper's protective house rule for Eleven"
+    },
+    {
+        "id": 15,
+        "quote": "Four puffs of the Farrah Fawcett spray.",
+        "character": "Steve Harrington",
+        "character_id": 10,
+        "season": 2,
+        "episode": 6,
+        "context": "Steve sharing his hair care secrets with Dustin"
+    },
+    {
+        "id": 16,
+        "quote": "Try before you deny, brochachos!",
+        "character": "Argyle",
+        "character_id": 18,
+        "season": 4,
+        "episode": 1,
+        "context": "Argyle promoting pineapple pizza"
+    },
+    {
+        "id": 17,
+        "quote": "Turn around, look at what you see... In her face, the mirror of your dreams...",
+        "character": "Dustin Henderson & Suzie Bingham",
+        "character_id": 3,
+        "season": 3,
+        "episode": 8,
+        "context": "The NeverEnding Story duet during the Battle of Starcourt"
+    },
+    {
+        "id": 18,
+        "quote": "Easy peasy!",
+        "character": "Bob Newby",
+        "character_id": 19,
+        "season": 2,
+        "episode": 8,
+        "context": "Bob's optimistic catchphrase before his sacrifice"
+    },
+    {
+        "id": 19,
+        "quote": "I will never stop looking for him!",
+        "character": "Joyce Byers",
+        "character_id": 7,
+        "season": 1,
+        "episode": 3,
+        "context": "Joyce's determination to find Will"
+    },
+    {
+        "id": 20,
+        "quote": "I say yes!",
+        "character": "Jim Hopper",
+        "character_id": 6,
+        "season": 2,
+        "episode": 9,
+        "context": "Hopper agreeing to adopt Eleven"
+    },
+    {
+        "id": 21,
+        "quote": "It's like I'm stuck. Stuck in the Upside Down.",
+        "character": "Will Byers",
+        "character_id": 5,
+        "season": 2,
+        "episode": 2,
+        "context": "Will describing his ongoing connection to the Upside Down"
+    },
+    {
+        "id": 22,
+        "quote": "What happened to Barb?",
+        "character": "Nancy Wheeler",
+        "character_id": 8,
+        "season": 1,
+        "episode": 5,
+        "context": "Nancy's guilt-driven quest for justice for her friend"
+    },
+    {
+        "id": 23,
+        "quote": "You're the most incredible person in the world.",
+        "character": "Mike Wheeler",
+        "character_id": 2,
+        "season": 4,
+        "episode": 9,
+        "context": "Mike confessing his feelings to Eleven"
+    },
+    {
+        "id": 24,
+        "quote": "I am the reason for everything that's happened.",
+        "character": "Vecna",
+        "character_id": 23,
+        "season": 4,
+        "episode": 7,
+        "context": "Vecna revealing he is the true evil behind all Upside Down attacks"
+    },
+    {
+        "id": 25,
+        "quote": "Running up that hill...",
+        "character": "Max Mayfield",
+        "character_id": 11,
+        "season": 4,
+        "episode": 4,
+        "context": "Max escaping Vecna's curse with Kate Bush's song"
+    },
+    {
+        "id": 26,
+        "quote": "Excellent!",
+        "character": "Dr. Martin Brenner",
+        "character_id": 16,
+        "season": 1,
+        "episode": 3,
+        "context": "Brenner's unsettling approval of Eleven's powers"
+    },
+    {
+        "id": 27,
+        "quote": "Chrissy, wake up! I don't like this!",
+        "character": "Eddie Munson",
+        "character_id": 17,
+        "season": 4,
+        "episode": 1,
+        "context": "Eddie's panicked plea when Chrissy is taken over by Vecna"
+    },
+    {
+        "id": 28,
+        "quote": "Something's coming. Something hungry for blood.",
+        "character": "Lucas Sinclair",
+        "character_id": 4,
+        "season": 1,
+        "episode": 1,
+        "context": "Lucas during the opening D&D campaign foreshadowing the Demogorgon"
+    },
+    {
+        "id": 29,
+        "quote": "Call me a conspiracist, I call myself a realist!",
+        "character": "Murray Bauman",
+        "character_id": 14,
+        "season": 2,
+        "episode": 5,
+        "context": "Murray defending his conspiracy theories"
+    },
+    {
+        "id": 30,
+        "quote": "Woody Woodpecker!",
+        "character": "Alexei",
+        "character_id": 24,
+        "season": 3,
+        "episode": 7,
+        "context": "Alexei's joyful reaction to winning a stuffed animal"
+    },
+    {
+        "id": 31,
+        "quote": "Just be careful of the Demogorgon.",
+        "character": "Dustin Henderson",
+        "character_id": 3,
+        "season": 1,
+        "episode": 1,
+        "context": "Dustin's warning during D&D, unaware of the real danger"
+    },
+    {
+        "id": 32,
+        "quote": "You should never have looked for me. Because now I see you. Now we can finally end this.",
+        "character": "Vecna",
+        "character_id": 23,
+        "season": 4,
+        "episode": 4,
+        "context": "Vecna threatening Eleven"
+    },
+    {
+        "id": 33,
+        "quote": "I'm ten, chill!",
+        "character": "Erica Sinclair",
+        "character_id": 15,
+        "season": 3,
+        "episode": 4,
+        "context": "Erica responding to Steve's concerns"
+    },
+    {
+        "id": 34,
+        "quote": "We're Max and Eleven. Super best friends.",
+        "character": "Max Mayfield",
+        "character_id": 11,
+        "season": 3,
+        "episode": 2,
+        "context": "Max bonding with Eleven"
+    },
+    {
+        "id": 35,
+        "quote": "Pretty... good.",
+        "character": "Eleven",
+        "character_id": 1,
+        "season": 1,
+        "episode": 4,
+        "context": "Eleven learning to express herself"
+    },
+    {
+        "id": 36,
+        "quote": "Goodbye, Mike.",
+        "character": "Eleven",
+        "character_id": 1,
+        "season": 1,
+        "episode": 8,
+        "context": "Eleven before sacrificing herself to defeat the Demogorgon"
+    },
+    {
+        "id": 37,
+        "quote": "I'll never let anything bad happen to you again.",
+        "character": "Mike Wheeler",
+        "character_id": 2,
+        "season": 2,
+        "episode": 9,
+        "context": "Mike's promise to Eleven at the Snow Ball"
+    },
+    {
+        "id": 38,
+        "quote": "Do you really think I'm crazy?",
+        "character": "Joyce Byers",
+        "character_id": 7,
+        "season": 1,
+        "episode": 4,
+        "context": "Joyce seeking validation about the supernatural occurrences"
+    },
+    {
+        "id": 39,
+        "quote": "His name is D'Artagnan. Dart for short.",
+        "character": "Dustin Henderson",
+        "character_id": 3,
+        "season": 2,
+        "episode": 3,
+        "context": "Dustin naming his 'pet' pollywog"
+    },
+    {
+        "id": 40,
+        "quote": "I made you.",
+        "character": "Dr. Martin Brenner",
+        "character_id": 16,
+        "season": 4,
+        "episode": 8,
+        "context": "Brenner's dark claim of ownership over Eleven"
+    },
+    {
+        "id": 41,
+        "quote": "You've come so far. I'm so proud of you.",
+        "character": "Dr. Martin Brenner",
+        "character_id": 16,
+        "season": 4,
+        "episode": 8,
+        "context": "Brenner's final words to Eleven"
+    },
+    {
+        "id": 42,
+        "quote": "I saw it. The thing that took me.",
+        "character": "Billy Hargrove",
+        "character_id": 12,
+        "season": 3,
+        "episode": 8,
+        "context": "Billy breaking free from the Mind Flayer's control"
+    },
+    {
+        "id": 43,
+        "quote": "Code Red!",
+        "character": "The Party",
+        "character_id": null,
+        "season": 1,
+        "episode": 1,
+        "context": "Emergency signal for the group"
+    },
+    {
+        "id": 44,
+        "quote": "Planck's constant!",
+        "character": "Suzie Bingham",
+        "character_id": 22,
+        "season": 3,
+        "episode": 8,
+        "context": "Suzie providing the numeric code to close the gate"
+    },
+    {
+        "id": 45,
+        "quote": "This pain... it is a gift.",
+        "character": "Vecna",
+        "character_id": 23,
+        "season": 4,
+        "episode": 4,
+        "context": "Vecna speaking to Max about trauma and pain"
+    },
+    {
+        "id": 46,
+        "quote": "Never Tell Me The Odds!",
+        "character": "Dustin Henderson",
+        "character_id": 3,
+        "season": 3,
+        "episode": 7,
+        "context": "Dustin quoting Han Solo"
+    },
+    {
+        "id": 47,
+        "quote": "I'm not afraid of you. I'm not afraid of anything anymore.",
+        "character": "Max Mayfield",
+        "character_id": 11,
+        "season": 4,
+        "episode": 4,
+        "context": "Max confronting Vecna"
+    },
+    {
+        "id": 48,
+        "quote": "Purple Palm Tree Delight.",
+        "character": "Argyle",
+        "character_id": 18,
+        "season": 4,
+        "episode": 5,
+        "context": "Argyle's name for his special marijuana strain"
+    },
+    {
+        "id": 49,
+        "quote": "I am Dungeon Master!",
+        "character": "Eddie Munson",
+        "character_id": 17,
+        "season": 4,
+        "episode": 1,
+        "context": "Eddie's commanding presence in Hellfire Club"
+    },
+    {
+        "id": 50,
+        "quote": "Breathe... Sunflower... Three to the right, four to the left... Rainbow... 450...",
+        "character": "Terry Ives",
+        "character_id": 25,
+        "season": 2,
+        "episode": 5,
+        "context": "Terry's cryptic message about her memories of Eleven"
+    }
+]

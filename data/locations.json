@@ -1,0 +1,286 @@
+[
+    {
+        "id": 1,
+        "name": "Hawkins, Indiana",
+        "type": "Town",
+        "description": "A small, seemingly ordinary town in Indiana that became the epicenter of supernatural events connected to the Upside Down. Home to Hawkins National Laboratory and the main characters.",
+        "significance": "Main setting of the entire series",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "status": "Devastated (Season 4)",
+        "image_path": "/images/locations/hawkins.webp",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 2,
+        "name": "The Upside Down",
+        "type": "Alternate Dimension",
+        "description": "A dark, toxic mirror dimension that exists parallel to our world. It's covered in organic matter, perpetual darkness, and floating particles. Home to the Demogorgon, Mind Flayer, and other creatures.",
+        "significance": "Origin of all supernatural threats in the series",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "status": "Active",
+        "image_path": "/images/locations/upside_down.webp",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Hawkins National Laboratory",
+        "type": "Government Facility",
+        "description": "A secret government research facility run by the Department of Energy. Dr. Martin Brenner conducted experiments on children with psychic abilities here, including Eleven.",
+        "significance": "Where Eleven was raised and the first gate was opened",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "status": "Abandoned",
+        "image_path": "/images/locations/hawkins_lab.webp",
+        "seasons": [
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Byers House",
+        "type": "Residence",
+        "description": "The modest home of Joyce, Jonathan, and Will Byers. Featured the famous Christmas lights communication system Joyce used to contact Will in the Upside Down.",
+        "significance": "Key location for early supernatural discoveries",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "status": "Abandoned (family moved to California)",
+        "image_path": "/images/locations/byers_house.webp",
+        "seasons": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Wheeler House",
+        "type": "Residence",
+        "description": "The two-story home of the Wheeler family - Ted, Karen, Nancy, Mike, and Holly. The basement served as The Party's headquarters and where Eleven first hid.",
+        "significance": "Meeting place for The Party and safe haven for Eleven",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "status": "Active",
+        "image_path": "/images/locations/wheeler_house.webp",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Starcourt Mall",
+        "type": "Shopping Center",
+        "description": "A large shopping mall that opened in Hawkins in 1985. Beneath it, the Soviet Union built a secret facility to open a new gate to the Upside Down.",
+        "significance": "Site of the Battle of Starcourt and Soviet secret base",
+        "first_appearance": "Chapter One: Suzie, Do You Copy?",
+        "status": "Destroyed",
+        "image_path": "/images/locations/starcourt_mall.webp",
+        "seasons": [
+            3
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Hawkins Middle School",
+        "type": "School",
+        "description": "The middle school attended by The Party. Features the AV Club room where Mr. Clarke mentors the kids and where supernatural investigations often took place.",
+        "significance": "Where The Party solves mysteries and the Snow Ball dance occurred",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "status": "Active",
+        "image_path": "/images/locations/hawkins_middle.webp",
+        "seasons": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Hawkins High School",
+        "type": "School",
+        "description": "The high school where Nancy, Jonathan, Steve, and later The Party attended. Home of the Tiger basketball team and the Hellfire Club.",
+        "significance": "Location of Hellfire Club meetings and where Vecna's curse began",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "status": "Active",
+        "image_path": "/images/locations/hawkins_high.webp",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Hopper's Cabin",
+        "type": "Residence",
+        "description": "A secluded cabin in the woods where Chief Hopper hid Eleven for nearly a year. It became their home and a safe space away from danger.",
+        "significance": "Eleven's hiding place and home with Hopper",
+        "first_appearance": "Chapter One: MADMAX",
+        "status": "Destroyed (rebuilt as memorial)",
+        "image_path": "/images/locations/hopper_cabin.webp",
+        "seasons": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 10,
+        "name": "The Creel House",
+        "type": "Residence",
+        "description": "A Victorian-style house where the Creel family lived in 1959. Henry Creel murdered his family here using his powers. It became Vecna's anchor point in Hawkins.",
+        "significance": "Origin of Vecna and gateway between dimensions",
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "status": "Active (damaged)",
+        "image_path": "/images/locations/creel_house.webp",
+        "seasons": [
+            4
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Scoops Ahoy",
+        "type": "Ice Cream Shop",
+        "description": "An ice cream parlor inside Starcourt Mall where Steve and Robin worked. They discovered the Soviet secret base from this location.",
+        "significance": "Where Steve and Robin discovered the Soviet conspiracy",
+        "first_appearance": "Chapter One: Suzie, Do You Copy?",
+        "status": "Destroyed (with Starcourt Mall)",
+        "image_path": "/images/locations/scoops_ahoy.webp",
+        "seasons": [
+            3
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Family Video",
+        "type": "Video Rental Store",
+        "description": "A video rental store where Steve and Robin work after Starcourt Mall was destroyed. Located in downtown Hawkins.",
+        "significance": "Steve and Robin's workplace in Season 4",
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "status": "Active",
+        "image_path": "/images/locations/family_video.webp",
+        "seasons": [
+            4
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Kamchatka Prison",
+        "type": "Prison Complex",
+        "description": "A Soviet prison complex in Kamchatka, Russia where Hopper was held captive. The Soviets experimented with Upside Down creatures and a captured Demogorgon here.",
+        "significance": "Where Hopper was imprisoned and fought the Demogorgon",
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "status": "Destroyed",
+        "image_path": "/images/locations/kamchatka.webp",
+        "seasons": [
+            4
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Hawkins Community Pool",
+        "type": "Public Pool",
+        "description": "The town's public swimming pool where Billy Hargrove worked as a lifeguard. The Mind Flayer used the pool's chemical room for his early operations.",
+        "significance": "Where Billy was possessed by the Mind Flayer",
+        "first_appearance": "Chapter One: Suzie, Do You Copy?",
+        "status": "Active",
+        "image_path": "/images/locations/hawkins_pool.webp",
+        "seasons": [
+            3
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Lenora Hills, California",
+        "type": "Town",
+        "description": "A town in California where the Byers family and Eleven moved after the Battle of Starcourt. Eleven attended Lenora Hills High School here.",
+        "significance": "Byers family's new home in Season 4",
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "status": "Active",
+        "image_path": "/images/locations/lenora_hills.webp",
+        "seasons": [
+            4
+        ]
+    },
+    {
+        "id": 16,
+        "name": "The Void",
+        "type": "Psychic Dimension",
+        "description": "A black, water-covered mental plane where Eleven can project her consciousness to locate and observe people across vast distances.",
+        "significance": "Eleven's psychic projection space",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "status": "Active",
+        "image_path": "/images/locations/void.webp",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Palace Arcade",
+        "type": "Arcade",
+        "description": "A video game arcade in Hawkins where The Party spent time and where Max earned her 'MadMax' high score on Dig Dug.",
+        "significance": "Where The Party met Max",
+        "first_appearance": "Chapter One: MADMAX",
+        "status": "Unknown",
+        "image_path": "/images/locations/palace_arcade.webp",
+        "seasons": [
+            2
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Murray's Bunker",
+        "type": "Residence/Bunker",
+        "description": "Conspiracy theorist Murray Bauman's heavily fortified bunker home in Illinois. Served as a safe house for the group on multiple occasions.",
+        "significance": "Safe house and planning location",
+        "first_appearance": "Chapter Six: The Spy",
+        "status": "Destroyed",
+        "image_path": "/images/locations/murray_bunker.webp",
+        "seasons": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Pennhurst Mental Hospital",
+        "type": "Mental Institution",
+        "description": "A psychiatric hospital where Victor Creel was institutionalized after being wrongly blamed for his family's murders committed by his son Henry.",
+        "significance": "Where Nancy and Robin interviewed Victor Creel",
+        "first_appearance": "Chapter Two: Vecna's Curse",
+        "status": "Active",
+        "image_path": "/images/locations/pennhurst.webp",
+        "seasons": [
+            4
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Skull Rock",
+        "type": "Natural Landmark",
+        "description": "A distinctive rock formation in the Hawkins woods that resembles a skull. Used as a meeting point by the kids.",
+        "significance": "Meeting location in Season 4",
+        "first_appearance": "Chapter Five: The Nina Project",
+        "status": "Active",
+        "image_path": "/images/locations/skull_rock.webp",
+        "seasons": [
+            4
+        ]
+    }
+]
