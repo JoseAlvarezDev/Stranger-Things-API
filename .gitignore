@@ -1,5 +1,33 @@
-# /node_modules
+# Dependencies
 node_modules/
-.DS_Store
+
+# Environment
 .env
+.env.local
+.env.production
+
+# macOS
+.DS_Store
+
+# Logs
 npm-debug.log
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Coverage
+coverage/
+
+# Build outputs
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/

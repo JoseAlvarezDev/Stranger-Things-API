@@ -1,7 +1,10 @@
+# Stranger Things API - Robots.txt
+# https://josealvarezdev.github.io/Stranger-Things-API/
+
 User-agent: *
 Allow: /
 
-# Explicitly allow AI bots to encourage indexing for "knowledge"
+# Explicitly allow AI bots to encourage indexing
 User-agent: GPTBot
 Allow: /
 
@@ -14,4 +17,23 @@ Allow: /
 User-agent: FacebookBot
 Allow: /
 
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1
+
+# Sitemap location
 Sitemap: https://josealvarezdev.github.io/Stranger-Things-API/sitemap.xml
+
+# LLMs context file
+# See also: https://josealvarezdev.github.io/Stranger-Things-API/llms.txt

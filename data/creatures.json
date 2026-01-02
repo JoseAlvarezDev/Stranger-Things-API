@@ -9,12 +9,14 @@
             "Dimensional Travel",
             "Enhanced Strength",
             "Blood Tracking",
-            "Regeneration"
+            "Regeneration",
+            "Enhanced Senses"
         ],
         "weaknesses": [
             "Fire",
             "Bullets (heavy damage)",
-            "Telekinesis"
+            "Telekinesis",
+            "Extreme heat"
         ],
         "first_appearance": "Chapter One: The Vanishing of Will Byers",
         "status": "Active",
@@ -27,8 +29,14 @@
         "victims": [
             "Barb Holland",
             "Scientists at Hawkins Lab",
-            "Soviet Prisoners"
-        ]
+            "Soviet Prisoners",
+            "Benny Hammond"
+        ],
+        "related_species": [
+            "Demo-dogs",
+            "Pollywog"
+        ],
+        "life_cycle": "Pollywog → Demo-dog → Demogorgon"
     },
     {
         "id": 2,
@@ -40,11 +48,13 @@
             "Pack Coordination",
             "Enhanced Speed",
             "Sharp Claws",
-            "Tunnel Creation"
+            "Tunnel Creation",
+            "Hive Mind Connection"
         ],
         "weaknesses": [
             "Fire",
-            "Severing connection to Mind Flayer"
+            "Severing connection to Mind Flayer",
+            "Physical attacks"
         ],
         "first_appearance": "Chapter Three: The Pollywog",
         "status": "Active",
@@ -58,7 +68,12 @@
             "Bob Newby",
             "Hawkins Lab Scientists",
             "Hawkins residents"
-        ]
+        ],
+        "related_species": [
+            "Demogorgon",
+            "Pollywog"
+        ],
+        "life_cycle": "Pollywog → Demo-dog → Demogorgon"
     },
     {
         "id": 3,
@@ -71,11 +86,13 @@
             "Possession",
             "Hive Mind Control",
             "Physical Manifestation",
-            "Memory Access"
+            "Memory Access",
+            "Remote Viewing"
         ],
         "weaknesses": [
             "Heat",
-            "Closing the Gate"
+            "Closing the Gate",
+            "Strong willpower"
         ],
         "first_appearance": "Chapter One: MADMAX",
         "status": "Active (weakened)",
@@ -90,7 +107,12 @@
             "Will Byers (possessed)",
             "Billy Hargrove",
             "The Flayed"
-        ]
+        ],
+        "related_species": [
+            "The Flayed",
+            "Spider Monster"
+        ],
+        "life_cycle": "Shadow Form → Physical Manifestation (through possessed hosts)"
     },
     {
         "id": 4,
@@ -100,11 +122,14 @@
         "description": "Humans who have been infected by the Mind Flayer's particles. They lose their free will and serve the Mind Flayer's purposes. They can be melted down to form the Mind Flayer's physical body.",
         "abilities": [
             "Coordination through hive mind",
-            "Physical transformation"
+            "Physical transformation",
+            "Enhanced strength",
+            "Biomass fusion"
         ],
         "weaknesses": [
             "Heat",
-            "Death of the Mind Flayer"
+            "Death of the Mind Flayer",
+            "Physical destruction"
         ],
         "first_appearance": "Chapter One: Suzie, Do You Copy?",
         "status": "Inactive",
@@ -115,7 +140,12 @@
         ],
         "victims": [
             "Multiple Hawkins residents merged into the Spider Monster"
-        ]
+        ],
+        "related_species": [
+            "Mind Flayer",
+            "Spider Monster"
+        ],
+        "life_cycle": "Human → Flayed → Biomass for Spider Monster"
     },
     {
         "id": 5,
@@ -127,11 +157,13 @@
             "Flight",
             "Swarm Coordination",
             "Strangling Tails",
-            "Biting"
+            "Biting",
+            "Hive Mind Connection"
         ],
         "weaknesses": [
             "Physical attacks when isolated",
-            "Fire"
+            "Fire",
+            "Spears and sharp weapons"
         ],
         "first_appearance": "Chapter One: The Hellfire Club",
         "status": "Active",
@@ -142,7 +174,11 @@
         ],
         "victims": [
             "Eddie Munson"
-        ]
+        ],
+        "related_species": [
+            "Vecna's creatures"
+        ],
+        "life_cycle": "Unknown"
     },
     {
         "id": 6,
@@ -156,12 +192,14 @@
             "Curse Infliction",
             "Memory Manipulation",
             "Dimensional Gates",
-            "Control over Upside Down"
+            "Control over Upside Down",
+            "Mind Reading"
         ],
         "weaknesses": [
             "Music (disrupts curse)",
             "Eleven's powers",
-            "Attacking physical body"
+            "Attacking physical body",
+            "Fire (when physical)"
         ],
         "first_appearance": "Chapter One: The Hellfire Club",
         "status": "Unknown (injured)",
@@ -175,7 +213,12 @@
             "Fred Benson",
             "Patrick McKinney",
             "Max Mayfield (near-death)"
-        ]
+        ],
+        "related_species": [
+            "Mind Flayer (creation)",
+            "All Upside Down creatures (controller)"
+        ],
+        "life_cycle": "Human (One) → Vecna (transformed in Upside Down)"
     },
     {
         "id": 7,
@@ -185,7 +228,8 @@
         "description": "The larval stage of Demogorgons. They resemble small slugs or tadpoles. Will Byers expelled one after being rescued, and Dustin found one named D'Artagnan (Dart).",
         "abilities": [
             "Rapid Growth",
-            "Dimensional Attachment"
+            "Dimensional Attachment",
+            "Feeding on organic matter"
         ],
         "weaknesses": [
             "Physical vulnerability in early stages",
@@ -201,7 +245,12 @@
         ],
         "victims": [
             "Mews (Dustin's cat)"
-        ]
+        ],
+        "related_species": [
+            "Demogorgon",
+            "Demo-dogs"
+        ],
+        "life_cycle": "Pollywog → Demo-dog → Demogorgon"
     },
     {
         "id": 8,
@@ -212,11 +261,14 @@
         "abilities": [
             "Immense Strength",
             "Regeneration through absorbing more matter",
-            "Tentacle attacks"
+            "Tentacle attacks",
+            "Pursuing prey"
         ],
         "weaknesses": [
             "Fireworks",
-            "Closing the Gate"
+            "Closing the Gate",
+            "Fire",
+            "El's powers"
         ],
         "first_appearance": "Chapter Six: E Pluribus Unum",
         "status": "Deceased",
@@ -227,7 +279,12 @@
         ],
         "victims": [
             "Multiple attempted victims at Starcourt Mall"
-        ]
+        ],
+        "related_species": [
+            "Mind Flayer",
+            "The Flayed"
+        ],
+        "life_cycle": "Formed from fused Flayed biomass"
     },
     {
         "id": 9,
@@ -238,11 +295,13 @@
         "abilities": [
             "Strangling",
             "Spreading",
-            "Sense detection"
+            "Sense detection",
+            "Network communication"
         ],
         "weaknesses": [
             "Fire",
-            "Cutting"
+            "Cutting",
+            "Closing the Gate"
         ],
         "first_appearance": "Chapter One: The Vanishing of Will Byers",
         "status": "Active",
@@ -256,7 +315,11 @@
         ],
         "victims": [
             "None directly (environmental hazard)"
-        ]
+        ],
+        "related_species": [
+            "Upside Down ecosystem"
+        ],
+        "life_cycle": "Continuous growth from Upside Down presence"
     },
     {
         "id": 10,
@@ -270,7 +333,8 @@
         ],
         "weaknesses": [
             "Fire",
-            "Coordinated attacks"
+            "Coordinated attacks",
+            "Greek fire weaponry"
         ],
         "first_appearance": "Chapter One: The Hellfire Club",
         "status": "Deceased",
@@ -282,6 +346,313 @@
         "victims": [
             "Soviet prisoners",
             "Soviet guards"
-        ]
+        ],
+        "related_species": [
+            "Demogorgon"
+        ],
+        "life_cycle": "Same as standard Demogorgon"
+    },
+    {
+        "id": 11,
+        "name": "Dart (D'Artagnan)",
+        "origin": "The Upside Down",
+        "classification": "Named Individual",
+        "description": "A pollywog that Dustin Henderson found and raised as a pet. Named after one of The Three Musketeers. Despite growing into a Demo-dog, Dart showed affection for Dustin and ultimately helped the group.",
+        "abilities": [
+            "Same as other Pollywogs/Demo-dogs",
+            "Recognition of Dustin"
+        ],
+        "weaknesses": [
+            "Chocolate distraction",
+            "Emotional connection to Dustin"
+        ],
+        "first_appearance": "Chapter Three: The Pollywog",
+        "status": "Deceased (presumed)",
+        "threat_level": "Medium",
+        "image_path": "/images/creatures/dart.webp",
+        "seasons": [
+            2
+        ],
+        "victims": [
+            "Mews (Dustin's cat)"
+        ],
+        "related_species": [
+            "Pollywog",
+            "Demo-dog",
+            "Demogorgon"
+        ],
+        "life_cycle": "Pollywog → Demo-dog (stopped by Gate closure)"
+    },
+    {
+        "id": 12,
+        "name": "Upside Down Particles",
+        "origin": "The Upside Down",
+        "classification": "Microscopic Entity",
+        "description": "Floating, dust-like particles that fill the atmosphere of the Upside Down. They are potentially spores or seeds of Upside Down life and can infect living beings.",
+        "abilities": [
+            "Infection/Possession",
+            "Airborne travel",
+            "Hive mind connection establishment"
+        ],
+        "weaknesses": [
+            "Cannot survive long outside the Upside Down without a Gate"
+        ],
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "status": "Active",
+        "threat_level": "Low-Medium",
+        "image_path": "/images/creatures/particles.webp",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "victims": [
+            "Will Byers (infection)",
+            "Various Flayed"
+        ],
+        "related_species": [
+            "Mind Flayer extension"
+        ],
+        "life_cycle": "Continuous presence in Upside Down atmosphere"
+    },
+    {
+        "id": 13,
+        "name": "Tunnel System",
+        "origin": "The Upside Down / Hawkins underground",
+        "classification": "Living Network",
+        "description": "A vast network of tunnels beneath Hawkins created by the Mind Flayer's influence. The tunnels spread from the Gate and are lined with organic Upside Down material.",
+        "abilities": [
+            "Rapid expansion",
+            "Spreading toxic atmosphere",
+            "Transporting creatures",
+            "Releasing spores"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Closing the Gate"
+        ],
+        "first_appearance": "Chapter Four: Will the Wise",
+        "status": "Inactive (Gate closed)",
+        "threat_level": "Medium",
+        "image_path": "/images/creatures/tunnels.webp",
+        "seasons": [
+            2
+        ],
+        "victims": [
+            "Hawkins farmland (corruption)"
+        ],
+        "related_species": [
+            "Vines",
+            "Mind Flayer extension"
+        ],
+        "life_cycle": "Grows from Gate, spreads underground"
+    },
+    {
+        "id": 14,
+        "name": "The Shadow",
+        "origin": "The Upside Down",
+        "classification": "Entity Manifestation",
+        "description": "The Mind Flayer's shadow form that appears in Will's visions. A massive, spider-like dark cloud that hovers over the Upside Down version of Hawkins.",
+        "abilities": [
+            "Psychic invasion",
+            "Visual manifestation",
+            "Possession preparation",
+            "Surveillance"
+        ],
+        "weaknesses": [
+            "Mental resistance",
+            "Closing eyes to visions"
+        ],
+        "first_appearance": "Chapter Two: Trick or Treat, Freak",
+        "status": "Active",
+        "threat_level": "High",
+        "image_path": "/images/creatures/shadow.webp",
+        "seasons": [
+            2
+        ],
+        "victims": [
+            "Will Byers (psychic target)"
+        ],
+        "related_species": [
+            "Mind Flayer (same entity)"
+        ],
+        "life_cycle": "Manifestation of Mind Flayer in visions"
+    },
+    {
+        "id": 15,
+        "name": "Hospital Monster",
+        "origin": "Hawkins",
+        "classification": "Transformed Possessed Humans",
+        "description": "A creature formed when Tom Holloway and Bruce attacked Nancy and Jonathan, then merged together after being killed. It served as a precursor to the larger Spider Monster.",
+        "abilities": [
+            "Shapeshifting",
+            "Regeneration",
+            "Enhanced strength",
+            "Pursuing prey"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Physical destruction",
+            "Separation from Mind Flayer"
+        ],
+        "first_appearance": "Chapter Five: The Flayed",
+        "status": "Merged into Spider Monster",
+        "threat_level": "High",
+        "image_path": "/images/creatures/hospital_monster.webp",
+        "seasons": [
+            3
+        ],
+        "victims": [
+            "None (defeated by Nancy and Jonathan)"
+        ],
+        "related_species": [
+            "The Flayed",
+            "Spider Monster"
+        ],
+        "life_cycle": "Flayed humans → Merged monster → Part of Spider Monster"
+    },
+    {
+        "id": 16,
+        "name": "Vecna's Curse Victims",
+        "origin": "Hawkins (Vecna's psychic attack)",
+        "classification": "Cursed Humans",
+        "description": "Individuals targeted by Vecna through their psychological trauma. They experience horrifying visions, nosebleeds, headaches, and eventually are killed when Vecna breaks their bones and liquefies their eyes.",
+        "abilities": null,
+        "weaknesses": null,
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "status": "Various (most deceased)",
+        "threat_level": null,
+        "image_path": "/images/creatures/curse_victims.webp",
+        "seasons": [
+            4
+        ],
+        "victims": [
+            "Chrissy Cunningham",
+            "Fred Benson",
+            "Patrick McKinney"
+        ],
+        "related_species": [
+            "Vecna (attacker)"
+        ],
+        "life_cycle": "Headaches → Visions → Trance → Death (unless saved by music)"
+    },
+    {
+        "id": 17,
+        "name": "Upside Down Environment",
+        "origin": "The Upside Down",
+        "classification": "Ecosystem",
+        "description": "The toxic, decay-covered environment of the Upside Down itself. The atmosphere is filled with floating particles, everything is covered in organic matter, and a perpetual darkness exists.",
+        "abilities": [
+            "Toxic atmosphere",
+            "Corrupting influence",
+            "Cold temperature",
+            "Darkness"
+        ],
+        "weaknesses": [
+            "Unable to fully cross into regular dimension without gates"
+        ],
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "status": "Active",
+        "threat_level": "Environmental Hazard",
+        "image_path": "/images/creatures/environment.webp",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "victims": [
+            "Anyone trapped without protection"
+        ],
+        "related_species": [
+            "All Upside Down life"
+        ],
+        "life_cycle": "Mirror dimension frozen in time (Nov 6, 1983)"
+    },
+    {
+        "id": 18,
+        "name": "Demo-gorgon Egg",
+        "origin": "The Upside Down",
+        "classification": "Reproductive Stage",
+        "description": "Eggs presumably laid by Demogorgons that hatch into Pollywogs. Little is known about their exact appearance or properties.",
+        "abilities": [
+            "Incubation of Pollywogs"
+        ],
+        "weaknesses": [
+            "Physical destruction before hatching"
+        ],
+        "first_appearance": "Implied",
+        "status": "Theoretical",
+        "threat_level": "Low (when dormant)",
+        "image_path": "/images/creatures/egg.webp",
+        "seasons": [
+            2
+        ],
+        "victims": null,
+        "related_species": [
+            "Pollywog",
+            "Demogorgon"
+        ],
+        "life_cycle": "Egg → Pollywog → Demo-dog → Demogorgon"
+    },
+    {
+        "id": 19,
+        "name": "Mind Flayer Fragment",
+        "origin": "Hawkins / The Upside Down",
+        "classification": "Partial Entity",
+        "description": "A piece of the Mind Flayer that was separated when the Gate was closed at Starcourt. This fragment embedded itself in Eleven's leg and had to be removed.",
+        "abilities": [
+            "Burrowing",
+            "Tracking Eleven",
+            "Mind Flayer connection",
+            "Self-propulsion"
+        ],
+        "weaknesses": [
+            "Physical removal",
+            "El's telekinesis"
+        ],
+        "first_appearance": "Chapter Seven: The Bite",
+        "status": "Removed/Destroyed",
+        "threat_level": "High (while embedded)",
+        "image_path": "/images/creatures/fragment.webp",
+        "seasons": [
+            3
+        ],
+        "victims": [
+            "Eleven (temporary host)"
+        ],
+        "related_species": [
+            "Mind Flayer"
+        ],
+        "life_cycle": "Fragment of larger entity"
+    },
+    {
+        "id": 20,
+        "name": "Rats",
+        "origin": "Hawkins (Mind Flayer controlled)",
+        "classification": "Possessed Animals",
+        "description": "Common rats that were possessed by the Mind Flayer's influence. They traveled in swarms to the Steel Works where they were melted down to begin forming the Spider Monster.",
+        "abilities": [
+            "Swarming",
+            "Hive mind coordination",
+            "Biomass contribution"
+        ],
+        "weaknesses": [
+            "Physical destruction",
+            "Fire"
+        ],
+        "first_appearance": "Chapter One: Suzie, Do You Copy?",
+        "status": "All melted/deceased",
+        "threat_level": "Low (individually), Medium (swarms)",
+        "image_path": "/images/creatures/rats.webp",
+        "seasons": [
+            3
+        ],
+        "victims": null,
+        "related_species": [
+            "The Flayed (similar infection)"
+        ],
+        "life_cycle": "Rat → Possessed rat → Melted for biomass"
     }
 ]

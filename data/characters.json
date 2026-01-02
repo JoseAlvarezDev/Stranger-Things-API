@@ -302,7 +302,7 @@
             "Henderson! What are you doing?",
             "How many children are you friends with?",
             "Four puffs of the Farrah Fawcett spray.",
-            "Just because you don't see us does n't mean that we're not there."
+            "Just because you don't see us doesn't mean that we're not there."
         ],
         "description": "Initially a popular jock and Nancy's boyfriend, Steve evolved into the beloved 'Mom of the group', protecting the kids and wielding his iconic nail bat.",
         "seasons": [
@@ -717,6 +717,644 @@
         "seasons": [
             1,
             2
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Chrissy Cunningham",
+        "real_name": "Christina Cunningham",
+        "nickname": "Chrissy",
+        "age": 18,
+        "birthdate": "1968-05-20",
+        "gender": "Female",
+        "occupation": "Student, Head Cheerleader",
+        "affiliation": "Hawkins High School",
+        "portrayed_by": "Grace Van Dien",
+        "powers": null,
+        "status": "Deceased",
+        "portrait_path": "/images/characters/chrissy.webp",
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "quotes": [
+            "Eddie? Are you okay?",
+            "I have these headaches...",
+            "Make it stop."
+        ],
+        "description": "The popular head cheerleader at Hawkins High School and Jason Carver's girlfriend. She secretly suffered from trauma related to her mother. She became Vecna's first victim in Season 4.",
+        "seasons": [
+            4
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Jason Carver",
+        "real_name": "Jason Carver",
+        "nickname": "Jason",
+        "age": 18,
+        "birthdate": "1968-01-15",
+        "gender": "Male",
+        "occupation": "Student, Basketball Team Captain",
+        "affiliation": "Hawkins High School Basketball Team",
+        "portrayed_by": "Mason Dye",
+        "powers": null,
+        "status": "Deceased",
+        "portrait_path": "/images/characters/jason.webp",
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "quotes": [
+            "I know what I saw!",
+            "There is a demon in this town!",
+            "Eddie Munson is not an innocent man!",
+            "This is a war, and we're the soldiers."
+        ],
+        "description": "The captain of Hawkins High's basketball team and Chrissy's boyfriend. After her death, he led a witch hunt against Eddie Munson, believing the Hellfire Club was a Satanic cult.",
+        "seasons": [
+            4
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Mr. Scott Clarke",
+        "real_name": "Scott Clarke",
+        "nickname": "Mr. Clarke",
+        "age": 38,
+        "birthdate": "1948-09-15",
+        "gender": "Male",
+        "occupation": "Science Teacher, AV Club Advisor",
+        "affiliation": "Hawkins Middle School",
+        "portrayed_by": "Randy Havens",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/mr_clarke.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "Curiosity is the gateway to understanding.",
+            "Science is neat, but I'm afraid it's not very forgiving.",
+            "There are certain laws of physics that can simply not be broken.",
+            "A flea and an acrobat."
+        ],
+        "description": "The beloved science teacher and AV Club advisor at Hawkins Middle School. His lessons on parallel dimensions and sensory deprivation tanks inadvertently helped The Party understand the Upside Down.",
+        "seasons": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Karen Wheeler",
+        "real_name": "Karen Wheeler",
+        "nickname": "Karen",
+        "age": 40,
+        "birthdate": "1946-03-10",
+        "gender": "Female",
+        "occupation": "Homemaker",
+        "affiliation": "Wheeler Family",
+        "portrayed_by": "Cara Buono",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/karen.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "What did you do?!",
+            "Are you okay?",
+            "You can always talk to me, you know."
+        ],
+        "description": "Mike and Nancy's mother. She tries to be a supportive parent but is often kept in the dark about the supernatural events affecting her children. She was briefly tempted by Billy Hargrove.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Ted Wheeler",
+        "real_name": "Ted Wheeler",
+        "nickname": "Ted",
+        "age": 45,
+        "birthdate": "1941-07-22",
+        "gender": "Male",
+        "occupation": "Unknown (White collar)",
+        "affiliation": "Wheeler Family",
+        "portrayed_by": "Joe Chrest",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/ted.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "What did I do?",
+            "Language!",
+            "Anybody want a pizza?"
+        ],
+        "description": "Mike and Nancy's oblivious father. He's largely disconnected from the events happening around him, often falling asleep in his chair while his family deals with supernatural threats.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Kali Prasad",
+        "real_name": "Kali Prasad",
+        "nickname": "Eight",
+        "age": 17,
+        "birthdate": "1969-02-14",
+        "gender": "Female",
+        "occupation": "Vigilante",
+        "affiliation": "Hawkins Lab (formerly), The Gang",
+        "portrayed_by": "Linnea Berthelsen",
+        "powers": [
+            "Illusion Casting",
+            "Mental Manipulation"
+        ],
+        "status": "Alive",
+        "portrait_path": "/images/characters/kali.webp",
+        "first_appearance": "Chapter Seven: The Lost Sister",
+        "quotes": [
+            "You have a wound. A wound that can't be healed.",
+            "I can make people see, or not see, whatever I choose.",
+            "Brenner is the root of all your anger."
+        ],
+        "description": "One of the children experimented on at Hawkins Lab, designated as 'Eight'. She can create realistic illusions. She escaped the lab before Eleven and formed a gang of outcasts seeking revenge.",
+        "seasons": [
+            2
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Victor Creel",
+        "real_name": "Victor Creel",
+        "nickname": "Victor",
+        "age": 65,
+        "birthdate": "1921-08-03",
+        "gender": "Male",
+        "occupation": "Former Factory Worker",
+        "affiliation": "Pennhurst Mental Hospital (patient)",
+        "portrayed_by": "Robert Englund",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/victor_creel.webp",
+        "first_appearance": "Chapter Two: Vecna's Curse",
+        "quotes": [
+            "I saw things. Horrible things.",
+            "There was a demon in my house.",
+            "Music... it saved me."
+        ],
+        "description": "Henry Creel's father who was wrongfully institutionalized for the murders committed by his son. He has been imprisoned in Pennhurst Mental Hospital since 1959.",
+        "seasons": [
+            4
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Fred Benson",
+        "real_name": "Fred Benson",
+        "nickname": "Fred",
+        "age": 18,
+        "birthdate": "1968-06-10",
+        "gender": "Male",
+        "occupation": "Student, Intern at The Hawkins Post",
+        "affiliation": "The Hawkins Post",
+        "portrayed_by": "Logan Riley Bruner",
+        "powers": null,
+        "status": "Deceased",
+        "portrait_path": "/images/characters/fred.webp",
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "quotes": [
+            "Something's not right.",
+            "I keep seeing things."
+        ],
+        "description": "Nancy Wheeler's colleague at The Hawkins Post who assisted her in investigating the murders. He was killed by Vecna, becoming his second victim.",
+        "seasons": [
+            4
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Patrick McKinney",
+        "real_name": "Patrick McKinney",
+        "nickname": "Patrick",
+        "age": 18,
+        "birthdate": "1968-04-02",
+        "gender": "Male",
+        "occupation": "Student, Basketball Player",
+        "affiliation": "Hawkins High School Basketball Team",
+        "portrayed_by": "Myles Truitt",
+        "powers": null,
+        "status": "Deceased",
+        "portrait_path": "/images/characters/patrick.webp",
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "quotes": [
+            "I don't know what's happening to me.",
+            "I can't sleep."
+        ],
+        "description": "A member of the Hawkins High basketball team who was haunted by visions related to his traumatic home life. He became Vecna's third victim.",
+        "seasons": [
+            4
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Yuri Ismaylov",
+        "real_name": "Yuri Ismaylov",
+        "nickname": "Yuri",
+        "age": 48,
+        "birthdate": "1938-11-20",
+        "gender": "Male",
+        "occupation": "Pilot, Smuggler",
+        "affiliation": "None (Independent)",
+        "portrayed_by": "Nikola Đuričko",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/yuri.webp",
+        "first_appearance": "Chapter Three: The Monster and the Superhero",
+        "quotes": [
+            "In Russia, you don't find deal. Deal finds you!",
+            "Peanut butter! Smooth, not crunchy!",
+            "Business is business, my friends."
+        ],
+        "description": "A greedy and unpredictable Russian smuggler who was hired to help Joyce and Murray reach the prison in Kamchatka. He double-crossed them but was later forced to help.",
+        "seasons": [
+            4
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Dr. Sam Owens",
+        "real_name": "Dr. Sam Owens",
+        "nickname": "Dr. Owens",
+        "age": 55,
+        "birthdate": "1931-02-28",
+        "gender": "Male",
+        "occupation": "Department of Energy Director (Hawkins Lab)",
+        "affiliation": "U.S. Department of Energy",
+        "portrayed_by": "Paul Reiser",
+        "powers": null,
+        "status": "Unknown",
+        "portrait_path": "/images/characters/owens.webp",
+        "first_appearance": "Chapter One: MADMAX",
+        "quotes": [
+            "We're the good guys now.",
+            "I'm trying to help you.",
+            "We need her powers back."
+        ],
+        "description": "Dr. Brenner's replacement at Hawkins Lab. Unlike Brenner, he genuinely cared for Eleven and worked to help her recover her powers through the Nina Project.",
+        "seasons": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Tommy Hagan",
+        "real_name": "Tommy Hagan",
+        "nickname": "Tommy H",
+        "age": 18,
+        "birthdate": "1968-09-05",
+        "gender": "Male",
+        "occupation": "Student",
+        "affiliation": "Hawkins High School",
+        "portrayed_by": "Chester Rushing",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/tommy.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "That's so weird, man!",
+            "Dude, you're such a buzzkill."
+        ],
+        "description": "Steve Harrington's former friend and one of the popular kids at Hawkins High. He was known for bullying and later distanced himself from Steve.",
+        "seasons": [
+            1
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Carol Perkins",
+        "real_name": "Carol Perkins",
+        "nickname": "Carol",
+        "age": 18,
+        "birthdate": "1968-08-18",
+        "gender": "Female",
+        "occupation": "Student",
+        "affiliation": "Hawkins High School",
+        "portrayed_by": "Chelsea Talmadge",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/carol.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "She's such a prude.",
+            "Oh my God."
+        ],
+        "description": "Tommy Hagan's girlfriend and part of Steve's former popular group. Known for her dismissive and mean-spirited attitude towards others.",
+        "seasons": [
+            1
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Florence",
+        "real_name": "Florence",
+        "nickname": "Flo",
+        "age": 55,
+        "birthdate": "1931-05-12",
+        "gender": "Female",
+        "occupation": "Secretary at Hawkins Police Department",
+        "affiliation": "Hawkins Police Department",
+        "portrayed_by": "Susan Shalhoub Larkin",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/florence.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "Chief, you have a visitor.",
+            "Mornings are for coffee and contemplation."
+        ],
+        "description": "The secretary at the Hawkins Police Department. She's loyal and efficient, often serving as Hopper's reliable assistant.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Lonnie Byers",
+        "real_name": "Lonnie Byers",
+        "nickname": "Lonnie",
+        "age": 44,
+        "birthdate": "1942-12-01",
+        "gender": "Male",
+        "occupation": "Unknown",
+        "affiliation": "None",
+        "portrayed_by": "Ross Partridge",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/lonnie.webp",
+        "first_appearance": "Chapter Three: Holly, Jolly",
+        "quotes": [
+            "I came as soon as I heard.",
+            "This is my son we're talking about."
+        ],
+        "description": "Joyce's ex-husband and the absent father of Jonathan and Will. He's neglectful and only showed up during Will's disappearance to exploit the situation for a potential lawsuit.",
+        "seasons": [
+            1
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Holly Wheeler",
+        "real_name": "Holly Wheeler",
+        "nickname": "Holly",
+        "age": 6,
+        "birthdate": "1980-03-15",
+        "gender": "Female",
+        "occupation": "Child",
+        "affiliation": "Wheeler Family",
+        "portrayed_by": "Anniston Price",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/holly.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": null,
+        "description": "The youngest Wheeler child and Mike and Nancy's little sister. She unknowingly witnessed the Demogorgon during Season 1.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Officer Powell",
+        "real_name": "Calvin Powell",
+        "nickname": "Powell",
+        "age": 42,
+        "birthdate": "1944-07-28",
+        "gender": "Male",
+        "occupation": "Police Officer",
+        "affiliation": "Hawkins Police Department",
+        "portrayed_by": "Rob Morgan",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/powell.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "We've got a missing kid, Hopper.",
+            "This town's going crazy."
+        ],
+        "description": "One of the officers at the Hawkins Police Department who works alongside Chief Hopper. He's reliable and assists in various investigations.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Officer Callahan",
+        "real_name": "Phil Callahan",
+        "nickname": "Callahan",
+        "age": 38,
+        "birthdate": "1948-04-10",
+        "gender": "Male",
+        "occupation": "Police Officer",
+        "affiliation": "Hawkins Police Department",
+        "portrayed_by": "John Paul Reynolds",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/callahan.webp",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "quotes": [
+            "Another prank call?",
+            "I don't get paid enough for this."
+        ],
+        "description": "An officer at the Hawkins Police Department known for his somewhat lazy attitude. He works with Powell and Hopper on various cases.",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Becky Ives",
+        "real_name": "Rebecca Ives",
+        "nickname": "Becky",
+        "age": 42,
+        "birthdate": "1944-08-25",
+        "gender": "Female",
+        "occupation": "Terry's Caretaker",
+        "affiliation": "Ives Family",
+        "portrayed_by": "Amy Seimetz",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/becky.webp",
+        "first_appearance": "Chapter Three: Holly, Jolly",
+        "quotes": [
+            "Terry thinks her daughter is still alive.",
+            "She's been like this ever since.",
+            "She tried to sue Brenner. They called her crazy."
+        ],
+        "description": "Terry Ives' sister who takes care of her. She initially doubted Terry's claims about having a daughter but eventually helped Eleven learn about her mother.",
+        "seasons": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Heather Holloway",
+        "real_name": "Heather Holloway",
+        "nickname": "Heather",
+        "age": 17,
+        "birthdate": "1969-04-05",
+        "gender": "Female",
+        "occupation": "Lifeguard at Hawkins Community Pool",
+        "affiliation": "Hawkins Community Pool, The Flayed",
+        "portrayed_by": "Francesca Reale",
+        "powers": null,
+        "status": "Deceased",
+        "portrait_path": "/images/characters/heather.webp",
+        "first_appearance": "Chapter One: Suzie, Do You Copy?",
+        "quotes": [
+            "I'm fine. Everything is fine.",
+            "Billy, what's happening?"
+        ],
+        "description": "A lifeguard at the Hawkins Community Pool who was Billy's co-worker. She was one of the first people to be flayed by the Mind Flayer.",
+        "seasons": [
+            3
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Tom Holloway",
+        "real_name": "Tom Holloway",
+        "nickname": "Tom",
+        "age": 48,
+        "birthdate": "1938-02-14",
+        "gender": "Male",
+        "occupation": "Editor-in-Chief of The Hawkins Post",
+        "affiliation": "The Hawkins Post, The Flayed",
+        "portrayed_by": "Michael Park",
+        "powers": null,
+        "status": "Deceased",
+        "portrait_path": "/images/characters/tom_holloway.webp",
+        "first_appearance": "Chapter Two: The Mall Rats",
+        "quotes": [
+            "This is supposed to be news.",
+            "Stick to the facts, Wheeler."
+        ],
+        "description": "Heather Holloway's father and the editor-in-chief of The Hawkins Post. He dismissively treated Nancy until he was flayed.",
+        "seasons": [
+            3
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Neil Hargrove",
+        "real_name": "Neil Hargrove",
+        "nickname": "Neil",
+        "age": 45,
+        "birthdate": "1941-10-30",
+        "gender": "Male",
+        "occupation": "Unknown",
+        "affiliation": "Hargrove Family",
+        "portrayed_by": "Will Chase",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/neil.webp",
+        "first_appearance": "Chapter Two: Trick or Treat, Freak",
+        "quotes": [
+            "Respect and responsibility.",
+            "What did I tell you?"
+        ],
+        "description": "Billy and Max's abusive father. His violent behavior is the root cause of Billy's psychological issues and aggressive personality.",
+        "seasons": [
+            2,
+            3
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Susan Hargrove",
+        "real_name": "Susan Hargrove",
+        "nickname": "Susan",
+        "age": 42,
+        "birthdate": "1944-05-08",
+        "gender": "Female",
+        "occupation": "Homemaker",
+        "affiliation": "Hargrove Family",
+        "portrayed_by": "Jennifer Marshall",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/susan.webp",
+        "first_appearance": "Chapter One: MADMAX",
+        "quotes": [
+            "Billy, please.",
+            "We need to talk about Max."
+        ],
+        "description": "Max's mother and Billy's stepmother. She married Neil Hargrove and moved the family from California to Hawkins.",
+        "seasons": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Grigori",
+        "real_name": "Grigori",
+        "nickname": "The Russian Terminator",
+        "age": 40,
+        "birthdate": "1946-01-01",
+        "gender": "Male",
+        "occupation": "Soviet Assassin",
+        "affiliation": "Soviet Union",
+        "portrayed_by": "Andrey Ivchenko",
+        "powers": null,
+        "status": "Deceased",
+        "portrait_path": "/images/characters/grigori.webp",
+        "first_appearance": "Chapter Two: The Mall Rats",
+        "quotes": [
+            "You are persistent. I like that.",
+            "No more games."
+        ],
+        "description": "A ruthless Soviet assassin sent to eliminate anyone who discovered the Russian operation under Starcourt Mall. He pursued Hopper relentlessly.",
+        "seasons": [
+            3
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Lieutenant Colonel Sullivan",
+        "real_name": "Jack Sullivan",
+        "nickname": "Sullivan",
+        "age": 50,
+        "birthdate": "1936-11-11",
+        "gender": "Male",
+        "occupation": "Lieutenant Colonel, U.S. Military",
+        "affiliation": "United States Military",
+        "portrayed_by": "Sherman Augustus",
+        "powers": null,
+        "status": "Alive",
+        "portrait_path": "/images/characters/sullivan.webp",
+        "first_appearance": "Chapter Two: Vecna's Curse",
+        "quotes": [
+            "She's the source of all of this.",
+            "We need to neutralize the threat.",
+            "Find the girl."
+        ],
+        "description": "A U.S. military officer who believes Eleven is the cause of the supernatural events and seeks to eliminate her. He leads the hunt for Eleven in Season 4.",
+        "seasons": [
+            4
         ]
     }
 ]

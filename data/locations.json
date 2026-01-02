@@ -13,6 +13,12 @@
             2,
             3,
             4
+        ],
+        "notable_events": [
+            "Will's disappearance",
+            "Gate openings",
+            "Mind Flayer attacks",
+            "Vecna's curse"
         ]
     },
     {
@@ -29,6 +35,11 @@
             2,
             3,
             4
+        ],
+        "notable_events": [
+            "Will's imprisonment",
+            "Barb's death",
+            "Eleven's banishment of Vecna"
         ]
     },
     {
@@ -44,6 +55,11 @@
             1,
             2,
             4
+        ],
+        "notable_events": [
+            "MKUltra experiments",
+            "First Gate opening",
+            "Massacre by One"
         ]
     },
     {
@@ -59,6 +75,10 @@
             1,
             2,
             3
+        ],
+        "notable_events": [
+            "Christmas light communication",
+            "Will's possession surveillance"
         ]
     },
     {
@@ -75,6 +95,11 @@
             2,
             3,
             4
+        ],
+        "notable_events": [
+            "Eleven's hiding",
+            "D&D campaigns",
+            "The Party meetings"
         ]
     },
     {
@@ -88,6 +113,11 @@
         "image_path": "/images/locations/starcourt_mall.webp",
         "seasons": [
             3
+        ],
+        "notable_events": [
+            "Soviet key machine",
+            "Battle of Starcourt",
+            "Billy's sacrifice"
         ]
     },
     {
@@ -102,6 +132,11 @@
         "seasons": [
             1,
             2
+        ],
+        "notable_events": [
+            "Will's memorial",
+            "Snow Ball dance",
+            "AV Club meetings"
         ]
     },
     {
@@ -118,6 +153,11 @@
             2,
             3,
             4
+        ],
+        "notable_events": [
+            "Hellfire Club D&D sessions",
+            "Chrissy's death",
+            "Basketball games"
         ]
     },
     {
@@ -133,6 +173,11 @@
             2,
             3,
             4
+        ],
+        "notable_events": [
+            "Eleven's year in hiding",
+            "Hopper's rules",
+            "Destroyed by Russian assassin"
         ]
     },
     {
@@ -146,6 +191,11 @@
         "image_path": "/images/locations/creel_house.webp",
         "seasons": [
             4
+        ],
+        "notable_events": [
+            "Creel family murders",
+            "Vecna's hideout",
+            "Final confrontation"
         ]
     },
     {
@@ -159,6 +209,11 @@
         "image_path": "/images/locations/scoops_ahoy.webp",
         "seasons": [
             3
+        ],
+        "notable_events": [
+            "Russian code discovery",
+            "Steve and Robin's friendship",
+            "Dustin's visits"
         ]
     },
     {
@@ -172,6 +227,10 @@
         "image_path": "/images/locations/family_video.webp",
         "seasons": [
             4
+        ],
+        "notable_events": [
+            "Investigation headquarters",
+            "Eddie's hiding"
         ]
     },
     {
@@ -185,6 +244,11 @@
         "image_path": "/images/locations/kamchatka.webp",
         "seasons": [
             4
+        ],
+        "notable_events": [
+            "Hopper's imprisonment",
+            "Demogorgon fights",
+            "Escape"
         ]
     },
     {
@@ -198,6 +262,10 @@
         "image_path": "/images/locations/hawkins_pool.webp",
         "seasons": [
             3
+        ],
+        "notable_events": [
+            "Billy's possession",
+            "Flaying operations"
         ]
     },
     {
@@ -211,6 +279,10 @@
         "image_path": "/images/locations/lenora_hills.webp",
         "seasons": [
             4
+        ],
+        "notable_events": [
+            "Eleven's bullying",
+            "Roller rink attack"
         ]
     },
     {
@@ -227,6 +299,11 @@
             2,
             3,
             4
+        ],
+        "notable_events": [
+            "Finding Will",
+            "Contacting Mike",
+            "Vecna confrontations"
         ]
     },
     {
@@ -240,6 +317,10 @@
         "image_path": "/images/locations/palace_arcade.webp",
         "seasons": [
             2
+        ],
+        "notable_events": [
+            "Max's Dig Dug record",
+            "Madmax mystery"
         ]
     },
     {
@@ -255,6 +336,11 @@
             2,
             3,
             4
+        ],
+        "notable_events": [
+            "Barb's story leak",
+            "Russian translation",
+            "Destroyed by military"
         ]
     },
     {
@@ -268,6 +354,10 @@
         "image_path": "/images/locations/pennhurst.webp",
         "seasons": [
             4
+        ],
+        "notable_events": [
+            "Victor Creel interview",
+            "Music revelation"
         ]
     },
     {
@@ -281,6 +371,370 @@
         "image_path": "/images/locations/skull_rock.webp",
         "seasons": [
             4
+        ],
+        "notable_events": [
+            "Group reunions",
+            "Planning sessions"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Melvald's General Store",
+        "type": "Retail Store",
+        "description": "A general store in downtown Hawkins where Joyce Byers worked. Donald Melvald was the owner.",
+        "significance": "Joyce's workplace",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "status": "Active",
+        "image_path": "/images/locations/melvalds.webp",
+        "seasons": [
+            1,
+            2,
+            3
+        ],
+        "notable_events": [
+            "Joyce's breakdown",
+            "Magnet discovery"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Radio Shack",
+        "type": "Electronics Store",
+        "description": "An electronics retail store where Bob Newby worked as the manager. A key location for obtaining technical equipment.",
+        "significance": "Bob's workplace and tech source",
+        "first_appearance": "Chapter One: MADMAX",
+        "status": "Active",
+        "image_path": "/images/locations/radio_shack.webp",
+        "seasons": [
+            2
+        ],
+        "notable_events": [
+            "Equipment procurement",
+            "Bob's expertise"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "The Quarry",
+        "type": "Natural Landmark",
+        "description": "An abandoned quarry near Hawkins that serves as a cliff overlooking a body of water. The location where Eleven used her powers to save Mike.",
+        "significance": "Eleven's dramatic rescue of Mike",
+        "first_appearance": "Chapter Five: The Flea and the Acrobat",
+        "status": "Active",
+        "image_path": "/images/locations/quarry.webp",
+        "seasons": [
+            1
+        ],
+        "notable_events": [
+            "Mike's near-death",
+            "Eleven's levitation save"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Hawkins Public Library",
+        "type": "Library",
+        "description": "The public library in Hawkins where the kids researched information about the Upside Down and Hawkins Lab.",
+        "significance": "Research location for the group",
+        "first_appearance": "Chapter Three: Holly, Jolly",
+        "status": "Active",
+        "image_path": "/images/locations/library.webp",
+        "seasons": [
+            1,
+            2,
+            4
+        ],
+        "notable_events": [
+            "Gate research",
+            "Creel history investigation"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Castle Byers",
+        "type": "Playhouse",
+        "description": "A small wooden fort in the woods behind the Byers house that Will built as a child. Named 'Castle Byers' and served as his sanctuary.",
+        "significance": "Will's childhood hideout and emotional anchor",
+        "first_appearance": "Chapter Three: Holly, Jolly",
+        "status": "Destroyed",
+        "image_path": "/images/locations/castle_byers.webp",
+        "seasons": [
+            1,
+            2,
+            3
+        ],
+        "notable_events": [
+            "Will's Upside Down hideout",
+            "Will's emotional breakdown destruction"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "The Hawkins Post",
+        "type": "Newspaper Office",
+        "description": "The local newspaper office in Hawkins where Nancy worked as an intern and later investigated the supernatural events.",
+        "significance": "Nancy's workplace and investigation base",
+        "first_appearance": "Chapter One: Suzie, Do You Copy?",
+        "status": "Active",
+        "image_path": "/images/locations/hawkins_post.webp",
+        "seasons": [
+            3,
+            4
+        ],
+        "notable_events": [
+            "Nancy's investigations",
+            "Tom Holloway's control"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Reefer Rick's House",
+        "type": "Residence",
+        "description": "The lake house of a drug dealer known as Reefer Rick. Eddie Munson hid here after witnessing Chrissy's death.",
+        "significance": "Eddie's hiding place after being framed",
+        "first_appearance": "Chapter Two: Vecna's Curse",
+        "status": "Active",
+        "image_path": "/images/locations/reefer_ricks.webp",
+        "seasons": [
+            4
+        ],
+        "notable_events": [
+            "Eddie's hideout",
+            "Group meetings",
+            "Watergate discovery"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Lover's Lake",
+        "type": "Lake",
+        "description": "A lake near Hawkins where teenagers often went to hang out. A gate to the Upside Down opened at the bottom of the lake.",
+        "significance": "Location of the Watergate to the Upside Down",
+        "first_appearance": "Chapter Three: The Monster and the Superhero",
+        "status": "Active (Gate present)",
+        "image_path": "/images/locations/lovers_lake.webp",
+        "seasons": [
+            4
+        ],
+        "notable_events": [
+            "Patrick's death",
+            "Watergate discovery",
+            "Nancy's vision"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "The Upside Down Hawkins",
+        "type": "Alternate Dimension Mirror",
+        "description": "The Upside Down version of Hawkins, frozen in time on November 6, 1983 - the day Eleven opened the first gate. It mirrors our world but in decay.",
+        "significance": "The corrupted mirror of Hawkins in the Upside Down",
+        "first_appearance": "Chapter Eight: The Upside Down",
+        "status": "Active",
+        "image_path": "/images/locations/upside_down_hawkins.webp",
+        "seasons": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "notable_events": [
+            "Will's imprisonment",
+            "Nancy's capture",
+            "Final Vecna battle"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Nina Project Facility",
+        "type": "Government Facility",
+        "description": "A secret underground facility in the Nevada desert where Dr. Owens and Dr. Brenner worked to restore Eleven's powers using the NINA sensory deprivation tank.",
+        "significance": "Where Eleven regained her powers",
+        "first_appearance": "Chapter Four: Dear Billy",
+        "status": "Abandoned",
+        "image_path": "/images/locations/nina_facility.webp",
+        "seasons": [
+            4
+        ],
+        "notable_events": [
+            "Eleven's memory recovery",
+            "Military attack",
+            "Brenner's death"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Rink-O-Mania",
+        "type": "Roller Skating Rink",
+        "description": "A roller skating rink in Lenora Hills, California where Eleven was bullied and humiliated by Angela and her friends.",
+        "significance": "Location of Eleven's public humiliation and retaliation",
+        "first_appearance": "Chapter Two: Vecna's Curse",
+        "status": "Active",
+        "image_path": "/images/locations/rink_o_mania.webp",
+        "seasons": [
+            4
+        ],
+        "notable_events": [
+            "Eleven's bullying",
+            "Angela getting hit with a roller skate"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Surfer Boy Pizza",
+        "type": "Restaurant",
+        "description": "A pizza restaurant in California where Argyle works as a delivery driver. Their van became the California group's transportation.",
+        "significance": "Argyle's workplace and the van's origin",
+        "first_appearance": "Chapter One: The Hellfire Club",
+        "status": "Active",
+        "image_path": "/images/locations/surfer_boy_pizza.webp",
+        "seasons": [
+            4
+        ],
+        "notable_events": [
+            "Argyle's employment",
+            "Sensory deprivation bath",
+            "Eleven's resurrection"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "War Zone",
+        "type": "Gun Store/Outdoor Gear",
+        "description": "A store in Hawkins specializing in weapons and outdoor equipment. The group obtained weapons and gear here for their missions.",
+        "significance": "Source of weapons and equipment",
+        "first_appearance": "Chapter Seven: The Massacre at Hawkins Lab",
+        "status": "Active",
+        "image_path": "/images/locations/war_zone.webp",
+        "seasons": [
+            4
+        ],
+        "notable_events": [
+            "Weapons procurement for Vecna battle"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Hawkins Town Hall",
+        "type": "Government Building",
+        "description": "The municipal government building in Hawkins where town meetings and official business are conducted.",
+        "significance": "Center of local government",
+        "first_appearance": "Chapter Two: The Weirdo on Maple Street",
+        "status": "Active",
+        "image_path": "/images/locations/town_hall.webp",
+        "seasons": [
+            1,
+            4
+        ],
+        "notable_events": [
+            "Town meetings",
+            "Jason's rally"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Hawkins Memorial Hospital",
+        "type": "Hospital",
+        "description": "The main hospital in Hawkins where injured characters were treated throughout the series.",
+        "significance": "Medical treatment center for characters",
+        "first_appearance": "Chapter Five: The Flayed",
+        "status": "Active",
+        "image_path": "/images/locations/hospital.webp",
+        "seasons": [
+            1,
+            3,
+            4
+        ],
+        "notable_events": [
+            "Mind Flayer attack",
+            "Max's hospitalization",
+            "El's confrontation with Tom and Bruce"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "The Steel Works",
+        "type": "Industrial Facility",
+        "description": "An abandoned steel mill in Hawkins. The Mind Flayer used it as a base of operations in Season 3.",
+        "significance": "Mind Flayer's Season 3 headquarters",
+        "first_appearance": "Chapter Five: The Flayed",
+        "status": "Abandoned",
+        "image_path": "/images/locations/steel_works.webp",
+        "seasons": [
+            3
+        ],
+        "notable_events": [
+            "Flayed transformation",
+            "Spider Monster creation"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Hawkins Cemetery",
+        "type": "Cemetery",
+        "description": "The main cemetery in Hawkins where several characters are buried, including Barb Holland and later Eddie Munson.",
+        "significance": "Burial site for fallen characters",
+        "first_appearance": "Chapter Five: Dig Dug",
+        "status": "Active",
+        "image_path": "/images/locations/cemetery.webp",
+        "seasons": [
+            2,
+            4
+        ],
+        "notable_events": [
+            "Barb's funeral",
+            "Max's visits to Billy's grave"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Benny's Burgers",
+        "type": "Restaurant",
+        "description": "A local diner in Hawkins where Eleven first appeared after escaping Hawkins Lab. Owner Benny Hammond fed and protected her briefly.",
+        "significance": "First location Eleven went to after escape",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "status": "Unknown",
+        "image_path": "/images/locations/bennys_burgers.webp",
+        "seasons": [
+            1
+        ],
+        "notable_events": [
+            "Eleven's first meal",
+            "Benny's murder by Hawkins Lab"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Mirkwood",
+        "type": "Road/Forest Area",
+        "description": "The nickname given by The Party to the stretch of road through the woods where Will Byers was taken by the Demogorgon. Named after the forest in The Hobbit.",
+        "significance": "Where Will was abducted to the Upside Down",
+        "first_appearance": "Chapter One: The Vanishing of Will Byers",
+        "status": "Active",
+        "image_path": "/images/locations/mirkwood.webp",
+        "seasons": [
+            1
+        ],
+        "notable_events": [
+            "Will's abduction",
+            "Demogorgon encounter"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "The Fair",
+        "type": "Fair/Carnival",
+        "description": "The annual Hawkins 4th of July Fair where Alexei was killed and the gang regrouped during Season 3.",
+        "significance": "Location of Alexei's death",
+        "first_appearance": "Chapter Seven: The Bite",
+        "status": "Temporary Event",
+        "image_path": "/images/locations/fair.webp",
+        "seasons": [
+            3
+        ],
+        "notable_events": [
+            "Alexei's death",
+            "Murray's grief",
+            "Group reunion"
         ]
     }
 ]

@@ -12,11 +12,17 @@
     "stranger-things",
     "api",
     "rest",
+    "restful",
     "netflix",
     "eleven",
     "upside-down",
     "hawkins",
-    "demogorgon"
+    "demogorgon",
+    "free-api",
+    "open-source",
+    "json-api",
+    "express",
+    "swagger"
   ],
   "author": "Jose Alvarez Dev",
   "license": "MIT",
@@ -25,15 +31,25 @@
     "compression": "^1.8.1",
     "cors": "^2.8.5",
     "express": "^5.2.1",
+    "express-rate-limit": "^8.2.1",
+    "express-validator": "^7.2.1",
     "helmet": "^8.1.0",
-    "sharp": "^0.34.5"
+    "hpp": "^0.2.3",
+    "morgan": "^1.10.0",
+    "sharp": "^0.34.5",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "xss-clean": "^0.1.4"
   },
   "engines": {
     "node": ">=16.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JoseAlvarezDev/stranger-things-api"
+    "url": "https://github.com/JoseAlvarezDev/Stranger-Things-API"
   },
-  "homepage": "https://strangerthingsapi.com"
+  "bugs": {
+    "url": "https://github.com/JoseAlvarezDev/Stranger-Things-API/issues"
+  },
+  "homepage": "https://josealvarezdev.github.io/Stranger-Things-API"
 }

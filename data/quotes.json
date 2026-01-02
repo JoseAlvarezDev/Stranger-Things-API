@@ -448,5 +448,455 @@
         "season": 2,
         "episode": 5,
         "context": "Terry's cryptic message about her memories of Eleven"
+    },
+    {
+        "id": 51,
+        "quote": "Science is neat, but I'm afraid it's not very forgiving.",
+        "character": "Mr. Scott Clarke",
+        "character_id": 28,
+        "season": 1,
+        "episode": 5,
+        "context": "Mr. Clarke's lesson about the risks of experimentation"
+    },
+    {
+        "id": 52,
+        "quote": "A flea and an acrobat. You see, the flea can travel in either direction, but the acrobat can only walk along his rope.",
+        "character": "Mr. Scott Clarke",
+        "character_id": 28,
+        "season": 1,
+        "episode": 5,
+        "context": "Mr. Clarke explaining dimensions to Mike, Dustin, and Lucas"
+    },
+    {
+        "id": 53,
+        "quote": "You shouldn't like things because people tell you you're supposed to.",
+        "character": "Jonathan Byers",
+        "character_id": 9,
+        "season": 1,
+        "episode": 3,
+        "context": "Jonathan's advice to Will about individuality"
+    },
+    {
+        "id": 54,
+        "quote": "There is a demon in this town!",
+        "character": "Jason Carver",
+        "character_id": 27,
+        "season": 4,
+        "episode": 5,
+        "context": "Jason rallying the town against Eddie Munson"
+    },
+    {
+        "id": 55,
+        "quote": "I have a wound. And it's been festering. And the only way I'm going to make it better is by finding the man who did it.",
+        "character": "Kali Prasad",
+        "character_id": 31,
+        "season": 2,
+        "episode": 7,
+        "context": "Kali explaining her quest for revenge against Brenner"
+    },
+    {
+        "id": 56,
+        "quote": "There are certain laws of physics that can simply not be broken.",
+        "character": "Mr. Scott Clarke",
+        "character_id": 28,
+        "season": 1,
+        "episode": 5,
+        "context": "Mr. Clarke explaining interdimensional travel"
+    },
+    {
+        "id": 57,
+        "quote": "You have a wound. A wound that can't be healed.",
+        "character": "Kali Prasad",
+        "character_id": 31,
+        "season": 2,
+        "episode": 7,
+        "context": "Kali speaking to Eleven about their shared trauma"
+    },
+    {
+        "id": 58,
+        "quote": "In Russia, you don't find deal. Deal finds you!",
+        "character": "Yuri Ismaylov",
+        "character_id": 35,
+        "season": 4,
+        "episode": 4,
+        "context": "Yuri's colorful sales pitch"
+    },
+    {
+        "id": 59,
+        "quote": "Peanut butter! Smooth, not crunchy!",
+        "character": "Yuri Ismaylov",
+        "character_id": 35,
+        "season": 4,
+        "episode": 3,
+        "context": "Yuri's bribe demands"
+    },
+    {
+        "id": 60,
+        "quote": "We need to neutralize the threat.",
+        "character": "Lieutenant Colonel Sullivan",
+        "character_id": 50,
+        "season": 4,
+        "episode": 5,
+        "context": "Sullivan's cold determination to eliminate Eleven"
+    },
+    {
+        "id": 61,
+        "quote": "We're the good guys now.",
+        "character": "Dr. Sam Owens",
+        "character_id": 36,
+        "season": 2,
+        "episode": 1,
+        "context": "Dr. Owens differentiating himself from Brenner"
+    },
+    {
+        "id": 62,
+        "quote": "You want to stop Brenner? Let's stop Brenner.",
+        "character": "Nancy Wheeler",
+        "character_id": 8,
+        "season": 2,
+        "episode": 5,
+        "context": "Nancy committing to exposing the truth about Hawkins Lab"
+    },
+    {
+        "id": 63,
+        "quote": "It's like I'm stuck in the Dark Place.",
+        "character": "Will Byers",
+        "character_id": 5,
+        "season": 2,
+        "episode": 3,
+        "context": "Will describing his terrifying visions"
+    },
+    {
+        "id": 64,
+        "quote": "Music... it saved me.",
+        "character": "Victor Creel",
+        "character_id": 32,
+        "season": 4,
+        "episode": 5,
+        "context": "Victor revealing how he survived Vecna's attack"
+    },
+    {
+        "id": 65,
+        "quote": "I saw things. Horrible things.",
+        "character": "Victor Creel",
+        "character_id": 32,
+        "season": 4,
+        "episode": 5,
+        "context": "Victor describing his family's encounter with Vecna"
+    },
+    {
+        "id": 66,
+        "quote": "You are the key to everything.",
+        "character": "Vecna",
+        "character_id": 23,
+        "season": 4,
+        "episode": 7,
+        "context": "Vecna revealing Eleven's importance to his plans"
+    },
+    {
+        "id": 67,
+        "quote": "I want to finish what we started. I want to kill it.",
+        "character": "Nancy Wheeler",
+        "character_id": 8,
+        "season": 1,
+        "episode": 7,
+        "context": "Nancy's determination to destroy the Demogorgon"
+    },
+    {
+        "id": 68,
+        "quote": "This is not a normal time, right? I'm not saying it's supernatural, but I'm not saying it's natural either.",
+        "character": "Joyce Byers",
+        "character_id": 7,
+        "season": 1,
+        "episode": 3,
+        "context": "Joyce trying to explain the strange events"
+    },
+    {
+        "id": 69,
+        "quote": "What are you, stupid? Just run!",
+        "character": "Bob Newby",
+        "character_id": 19,
+        "season": 2,
+        "episode": 8,
+        "context": "Bob's last words before being attacked by Demodogs"
+    },
+    {
+        "id": 70,
+        "quote": "You rule, you know that?",
+        "character": "Robin Buckley",
+        "character_id": 13,
+        "season": 3,
+        "episode": 8,
+        "context": "Robin expressing her appreciation for Steve"
+    },
+    {
+        "id": 71,
+        "quote": "We're not going to Mirkwood on some...blind faith mission!",
+        "character": "Lucas Sinclair",
+        "character_id": 4,
+        "season": 1,
+        "episode": 2,
+        "context": "Lucas being skeptical about searching for Will"
+    },
+    {
+        "id": 72,
+        "quote": "I've seen the way you look at her. And I'm telling you now, that girl's been through hell.",
+        "character": "Jim Hopper",
+        "character_id": 6,
+        "season": 3,
+        "episode": 1,
+        "context": "Hopper warning Mike about his relationship with Eleven"
+    },
+    {
+        "id": 73,
+        "quote": "Looks like you've got yourself some competition.",
+        "character": "Billy Hargrove",
+        "character_id": 12,
+        "season": 2,
+        "episode": 3,
+        "context": "Billy challenging Steve's status"
+    },
+    {
+        "id": 74,
+        "quote": "Henderson! What are you doing?",
+        "character": "Steve Harrington",
+        "character_id": 10,
+        "season": 2,
+        "episode": 5,
+        "context": "Steve discovering Dustin's situation"
+    },
+    {
+        "id": 75,
+        "quote": "Just the facts.",
+        "character": "Erica Sinclair",
+        "character_id": 15,
+        "season": 3,
+        "episode": 5,
+        "context": "Erica being pragmatic"
+    },
+    {
+        "id": 76,
+        "quote": "I'm his girlfriend. His celestial girlfriend.",
+        "character": "Suzie Bingham",
+        "character_id": 22,
+        "season": 4,
+        "episode": 5,
+        "context": "Suzie describing her relationship with Dustin"
+    },
+    {
+        "id": 77,
+        "quote": "No more secrets, okay?",
+        "character": "Jim Hopper",
+        "character_id": 6,
+        "season": 2,
+        "episode": 9,
+        "context": "Hopper promising Eleven transparency"
+    },
+    {
+        "id": 78,
+        "quote": "You still don't understand, do you?",
+        "character": "Vecna",
+        "character_id": 23,
+        "season": 4,
+        "episode": 7,
+        "context": "Vecna revealing the truth about his past"
+    },
+    {
+        "id": 79,
+        "quote": "It is over, Eleven. You have freed me.",
+        "character": "Vecna",
+        "character_id": 23,
+        "season": 4,
+        "episode": 9,
+        "context": "Vecna after Max's death opens the gates"
+    },
+    {
+        "id": 80,
+        "quote": "I thought you were supposed to be some kind of super spy.",
+        "character": "Max Mayfield",
+        "character_id": 11,
+        "season": 2,
+        "episode": 5,
+        "context": "Max teasing Dustin"
+    },
+    {
+        "id": 81,
+        "quote": "I know my boy!",
+        "character": "Joyce Byers",
+        "character_id": 7,
+        "season": 1,
+        "episode": 4,
+        "context": "Joyce defending her belief that Will is alive"
+    },
+    {
+        "id": 82,
+        "quote": "Curiosity is the gateway to understanding.",
+        "character": "Mr. Scott Clarke",
+        "character_id": 28,
+        "season": 1,
+        "episode": 1,
+        "context": "Mr. Clarke encouraging scientific curiosity"
+    },
+    {
+        "id": 83,
+        "quote": "We never would've upset you if we knew you had superpowers.",
+        "character": "Mike Wheeler",
+        "character_id": 2,
+        "season": 1,
+        "episode": 2,
+        "context": "Mike apologizing to Eleven"
+    },
+    {
+        "id": 84,
+        "quote": "He's here.",
+        "character": "Will Byers",
+        "character_id": 5,
+        "season": 2,
+        "episode": 4,
+        "context": "Will sensing the Mind Flayer's presence"
+    },
+    {
+        "id": 85,
+        "quote": "I can make people see, or not see, whatever I choose.",
+        "character": "Kali Prasad",
+        "character_id": 31,
+        "season": 2,
+        "episode": 7,
+        "context": "Kali demonstrating her powers to Eleven"
+    },
+    {
+        "id": 86,
+        "quote": "Respect and responsibility.",
+        "character": "Neil Hargrove",
+        "character_id": 47,
+        "season": 2,
+        "episode": 3,
+        "context": "Neil lecturing Billy"
+    },
+    {
+        "id": 87,
+        "quote": "This is crazy!",
+        "character": "Mike Wheeler",
+        "character_id": 2,
+        "season": 1,
+        "episode": 6,
+        "context": "Mike reacting to supernatural events"
+    },
+    {
+        "id": 88,
+        "quote": "Sometimes I feel like I'm still there.",
+        "character": "Will Byers",
+        "character_id": 5,
+        "season": 2,
+        "episode": 1,
+        "context": "Will describing his PTSD from the Upside Down"
+    },
+    {
+        "id": 89,
+        "quote": "Trust is a dangerous thing in this place.",
+        "character": "Dmitri Antonov",
+        "character_id": 21,
+        "season": 4,
+        "episode": 3,
+        "context": "Enzo warning Hopper about the prison"
+    },
+    {
+        "id": 90,
+        "quote": "Everyone has something they want to protect.",
+        "character": "Dmitri Antonov",
+        "character_id": 21,
+        "season": 4,
+        "episode": 4,
+        "context": "Enzo explaining his motivations"
+    },
+    {
+        "id": 91,
+        "quote": "That's just crazy talk, broski.",
+        "character": "Argyle",
+        "character_id": 18,
+        "season": 4,
+        "episode": 2,
+        "context": "Argyle's laid-back dismissal"
+    },
+    {
+        "id": 92,
+        "quote": "You're Jim Hopper. The American!",
+        "character": "Dmitri Antonov",
+        "character_id": 21,
+        "season": 4,
+        "episode": 1,
+        "context": "Enzo recognizing Hopper in the prison"
+    },
+    {
+        "id": 93,
+        "quote": "I love her, and I love you.",
+        "character": "Bob Newby",
+        "character_id": 19,
+        "season": 2,
+        "episode": 6,
+        "context": "Bob expressing his love for Joyce and Will"
+    },
+    {
+        "id": 94,
+        "quote": "I'm just going to walk away now.",
+        "character": "Robin Buckley",
+        "character_id": 13,
+        "season": 3,
+        "episode": 3,
+        "context": "Robin's awkward exit"
+    },
+    {
+        "id": 95,
+        "quote": "You're different now.",
+        "character": "Barbara Holland",
+        "character_id": 20,
+        "season": 1,
+        "episode": 2,
+        "context": "Barb noticing Nancy's change"
+    },
+    {
+        "id": 96,
+        "quote": "Just because you don't see us doesn't mean that we're not there.",
+        "character": "Steve Harrington",
+        "character_id": 10,
+        "season": 4,
+        "episode": 9,
+        "context": "Steve's rallying speech"
+    },
+    {
+        "id": 97,
+        "quote": "Will is alive! I don't know where he is, but I know he is out there!",
+        "character": "Joyce Byers",
+        "character_id": 7,
+        "season": 1,
+        "episode": 5,
+        "context": "Joyce's unwavering belief"
+    },
+    {
+        "id": 98,
+        "quote": "This isn't you.",
+        "character": "Barbara Holland",
+        "character_id": 20,
+        "season": 1,
+        "episode": 2,
+        "context": "Barb warning Nancy about Steve"
+    },
+    {
+        "id": 99,
+        "quote": "I felt it everywhere.",
+        "character": "Will Byers",
+        "character_id": 5,
+        "season": 2,
+        "episode": 4,
+        "context": "Will describing the Mind Flayer's influence"
+    },
+    {
+        "id": 100,
+        "quote": "I can save them.",
+        "character": "Eleven",
+        "character_id": 1,
+        "season": 4,
+        "episode": 9,
+        "context": "Eleven's determination to save her friends"
     }
 ]
